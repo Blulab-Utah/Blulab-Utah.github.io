@@ -19,36 +19,36 @@
 <link rel="canonical" href="/projects/shared-resources" />
   <title>Shared Resources | BLUlab</title>
   <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.base.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.menus.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.messages.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.theme.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/comment/comment.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/field/theme/field.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/node/node.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/search/search.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/user/user.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/views/css/views.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/biblio/biblio.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/style.css?pncn4v");
 </style>
 <style type="text/css" media="print">
-@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/print.css?pncn4v");
 </style>
-  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
-<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+  <script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"0HQd7nkZDKTPN1PPBAkS0beLeAzbw1OyyOKj-9BGeRY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
@@ -109,20 +109,20 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       
     <div class="content">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Over the course of the last 30 years, NLP has increasingly been applied to biomedical and clinical use cases. Existing NLP resources - annotation schemas, annotated corpora, applications, evaluation tools - can be leveraged or adapted for many of these clinical use cases. Our lab is investigating how to develop and disseminate shared resources for NLP research and use cases. To date, we have a variety of resources available to the NLP community.</p>
-</div></div></div><div class="field field-name-field-project-publications field-type-text-long field-label-inline clearfix"><div class="field-label">Publications:&nbsp;</div><div class="field-items"><div class="field-item even"><ul><li><a href="http://blulab.chpc.utah.edu/papers/overview-shareclef-ehealth-evaluation-lab-2013">Suominen H, Salanterä S, Velupillai S, Chapman WW, Savova G, Elhadad N, Pradhan S, South BR, Mowery DL, Jones GJF, et al. Overview of the ShARe/CLEF eHealth Evaluation Lab 2013. In: Forner P, Müller H, Paredes R, Rosso P, Stein B Information Access Evaluation. Multilinguality, Multimodality, and Visualization. Vol. 8138. Information Access Evaluation. Multilinguality, Multimodality, and Visualization. Springer Berlin Heidelberg; 2013. pp. 212-231.</a></li>
-<li><a href="http://blulab.chpc.utah.edu/papers/task-1-shareclef-ehealth-evaluation-lab-2013">Pradhan S, Elhadad N, South BR, Martinez D, Christensen L, Vogel A, Suominen H, Chapman WW, Savova G. Task 1: ShARe/CLEF eHealth Evaluation Lab 2013. CLEF [Internet]. 2013</a></li>
-<li><a href="http://blulab.chpc.utah.edu/papers/task-2-shareclef-ehealth-evaluation-lab-2013">Mowery DL, South BR, Murtola LM, Salanterä S, Suominen H, Elhadad N, Pradhan S, Savova GK, Chapman WW. Task 2: ShARe/CLEF eHealth Evaluation Lab 2013. CLEF. 2013</a>.</li>
-<li><a href="http://blulab.chpc.utah.edu/papers/ensuring-adequate-coverage-build-publicly-available-corpus-de-identfied-clinical-documents">South BR, Mowery DL, Suo Y, Levy E, Ashfaq S, Shevi E, Wang L, Zhang M, Meystre SM, Chapman WW. Ensuring Adequate Coverage to Build a Publicly Available Corpus of De-identfied Clinical Documents. NLP Annotation Workshop. 2012.</a></li>
-<li><a href="http://blulab.chpc.utah.edu/papers/road-towards-developing-publicly-available-corpus-de-identified-clinical-texts">South BR, Mowery DL, Ferrandez O, Shen S, Suo Y, Zhang M, Chen A, Wang L, Meystre SM, Chapman WW. On the Road Towards Developing a Publicly Available Corpus of De-identified Clinical Texts. American Medical Informatics Association Annual Symposium. 2012.</a></li>
-<li><a href="http://blulab.chpc.utah.edu/papers/context-algorithm-identifying-contextual-features-clinical-text">Chapman WW, Chu D, Dowling JN. ConText: an algorithm for identifying contextual features from clinical text. In: Proc. BioNLP '07. Proc. BioNLP '07. Stroudsburg, PA, USA: Association for Computational Linguistics; 2007.</a></li>
-<li><a href="http://blulab.chpc.utah.edu/papers/evaluating-effectiveness-four-contextual-features-classifying-annotated-clinical-conditions">Chu D, Dowling JN, Chapman WW. Evaluating the effectiveness of four contextual features in classifying annotated clinical conditions in emergency department reports. AMIA Annu Symp Proc. 2006:141-5.</a></li>
-<li><a href="http://blulab.chpc.utah.edu/papers/context-algorithm-determining-negation-experiencer-and-temporal-status-clinical-reports">Harkema H, Dowling JN, Thornblade T, Chapman WW. ConText: an algorithm for determining negation, experiencer, and temporal status from clinical reports. J Biomed Inform. 2009;42(5):839-51</a></li>
-<li><a href="http://blulab.chpc.utah.edu/papers/distinguishing-historical-current-problems-clinical-reports-which-textual-features-help">Mowery DL, Harkema H, Dowling JN, Lustgarten JL, Chapman WW. Distinguishing Historical from Current Problems in Clinical Reports: Which Textual Features Help?. In: Proceedings of the Workshop on BioNLP. Proceedings of the Workshop on BioNLP. ; 2009.</a></li>
-<li><a href="http://blulab.chpc.utah.edu/papers/temporal-annotation-clinical-text">Mowery DL, Harkema H, Chapman WW. Temporal annotation of clinical text. In: Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing. Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing. Association for Computational Linguistics; 2008.</a></li>
+</div></div></div><div class="field field-name-field-project-publications field-type-text-long field-label-inline clearfix"><div class="field-label">Publications:&nbsp;</div><div class="field-items"><div class="field-item even"><ul><li><a href="https://blulab-utah.github.io/papers/overview-shareclef-ehealth-evaluation-lab-2013">Suominen H, Salanterä S, Velupillai S, Chapman WW, Savova G, Elhadad N, Pradhan S, South BR, Mowery DL, Jones GJF, et al. Overview of the ShARe/CLEF eHealth Evaluation Lab 2013. In: Forner P, Müller H, Paredes R, Rosso P, Stein B Information Access Evaluation. Multilinguality, Multimodality, and Visualization. Vol. 8138. Information Access Evaluation. Multilinguality, Multimodality, and Visualization. Springer Berlin Heidelberg; 2013. pp. 212-231.</a></li>
+<li><a href="https://blulab-utah.github.io/papers/task-1-shareclef-ehealth-evaluation-lab-2013">Pradhan S, Elhadad N, South BR, Martinez D, Christensen L, Vogel A, Suominen H, Chapman WW, Savova G. Task 1: ShARe/CLEF eHealth Evaluation Lab 2013. CLEF [Internet]. 2013</a></li>
+<li><a href="https://blulab-utah.github.io/papers/task-2-shareclef-ehealth-evaluation-lab-2013">Mowery DL, South BR, Murtola LM, Salanterä S, Suominen H, Elhadad N, Pradhan S, Savova GK, Chapman WW. Task 2: ShARe/CLEF eHealth Evaluation Lab 2013. CLEF. 2013</a>.</li>
+<li><a href="https://blulab-utah.github.io/papers/ensuring-adequate-coverage-build-publicly-available-corpus-de-identfied-clinical-documents">South BR, Mowery DL, Suo Y, Levy E, Ashfaq S, Shevi E, Wang L, Zhang M, Meystre SM, Chapman WW. Ensuring Adequate Coverage to Build a Publicly Available Corpus of De-identfied Clinical Documents. NLP Annotation Workshop. 2012.</a></li>
+<li><a href="https://blulab-utah.github.io/papers/road-towards-developing-publicly-available-corpus-de-identified-clinical-texts">South BR, Mowery DL, Ferrandez O, Shen S, Suo Y, Zhang M, Chen A, Wang L, Meystre SM, Chapman WW. On the Road Towards Developing a Publicly Available Corpus of De-identified Clinical Texts. American Medical Informatics Association Annual Symposium. 2012.</a></li>
+<li><a href="https://blulab-utah.github.io/papers/context-algorithm-identifying-contextual-features-clinical-text">Chapman WW, Chu D, Dowling JN. ConText: an algorithm for identifying contextual features from clinical text. In: Proc. BioNLP '07. Proc. BioNLP '07. Stroudsburg, PA, USA: Association for Computational Linguistics; 2007.</a></li>
+<li><a href="https://blulab-utah.github.io/papers/evaluating-effectiveness-four-contextual-features-classifying-annotated-clinical-conditions">Chu D, Dowling JN, Chapman WW. Evaluating the effectiveness of four contextual features in classifying annotated clinical conditions in emergency department reports. AMIA Annu Symp Proc. 2006:141-5.</a></li>
+<li><a href="https://blulab-utah.github.io/papers/context-algorithm-determining-negation-experiencer-and-temporal-status-clinical-reports">Harkema H, Dowling JN, Thornblade T, Chapman WW. ConText: an algorithm for determining negation, experiencer, and temporal status from clinical reports. J Biomed Inform. 2009;42(5):839-51</a></li>
+<li><a href="https://blulab-utah.github.io/papers/distinguishing-historical-current-problems-clinical-reports-which-textual-features-help">Mowery DL, Harkema H, Dowling JN, Lustgarten JL, Chapman WW. Distinguishing Historical from Current Problems in Clinical Reports: Which Textual Features Help?. In: Proceedings of the Workshop on BioNLP. Proceedings of the Workshop on BioNLP. ; 2009.</a></li>
+<li><a href="https://blulab-utah.github.io/papers/temporal-annotation-clinical-text">Mowery DL, Harkema H, Chapman WW. Temporal annotation of clinical text. In: Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing. Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing. Association for Computational Linguistics; 2008.</a></li>
 </ul></div></div></div><div class="field field-name-field-project-websites field-type-text-long field-label-inline clearfix"><div class="field-label">Websites:&nbsp;</div><div class="field-items"><div class="field-item even"><ul><li>Annotated Corpora (text with annotations)
-<ul><li><a href="http://blulab.chpc.utah.edu/content/shareclef-ehealth-2013-challenge-tasks-1-and-2">ShARe/CLEF eHealth 2013 Challenge - Tasks 1 (disease/disorder mentions) and 2 (acronym/abbreviation mentions)</a></li>
-<li><a href="http://blulab.chpc.utah.edu/content/mtsamples">MTSamples</a></li>
-<li><a href="http://blulab.chpc.utah.edu/content/context-annotations">ConText annotations</a></li>
+<ul><li><a href="https://blulab-utah.github.io/content/shareclef-ehealth-2013-challenge-tasks-1-and-2">ShARe/CLEF eHealth 2013 Challenge - Tasks 1 (disease/disorder mentions) and 2 (acronym/abbreviation mentions)</a></li>
+<li><a href="https://blulab-utah.github.io/content/mtsamples">MTSamples</a></li>
+<li><a href="https://blulab-utah.github.io/content/context-annotations">ConText annotations</a></li>
 </ul></li>
 </ul></div></div></div>    </div>
     

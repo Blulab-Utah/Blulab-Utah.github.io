@@ -19,36 +19,36 @@
 <link rel="canonical" href="/projects/twitter-public-health" />
   <title>Twitter for Public Health | BLUlab</title>
   <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.base.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.menus.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.messages.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.theme.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/comment/comment.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/field/theme/field.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/node/node.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/search/search.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/user/user.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/views/css/views.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/biblio/biblio.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/style.css?pncn4v");
 </style>
 <style type="text/css" media="print">
-@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/print.css?pncn4v");
 </style>
-  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
-<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+  <script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"BOE5v7Clr9XdMv7jy3r891HJQU9AgzK-3tXn3SmNcE8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
@@ -109,13 +109,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       
     <div class="content">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Social media platforms such as Twitter are rapidly becoming key resources for public health surveillance applications. Vast amounts of freely available, user-generated online content, in addition to allowing for efficient and potentially automated, real-time monitoring of public sentiment and informedness, allow for bottom-up discovery of emergent patterns that may not be readily detectable using traditional surveillance methodologies such as pre-formulated surveys. Twitter offers a number of key benefits as a data source for public health surveillance. First, the dataset is large and readily accessible: as of 2012, 340 million tweets are posted daily and this content is freely available (albeit subject to legal restrictions on redistribution). Second, data may be automatically collected and analyzed in real time. Third, Twitter content is user-centric, thus reflecting trends that surveys may not capture or that users may not discuss in more formal contexts. Finally, Twitter demographics allow for greater representation of underserved and difficult-to-reach groups: African-American, Hispanic, younger, and urban populations are in fact overrepresented on Twitter relative to the general population. NLP serves a vital role in unlocking vital surveillance knowledge from noisy Twitter streams.</p>
-<ul><li><a href="http://blulab.chpc.utah.edu/content/tobacco">Tobacco (Understanding attitudes toward tobacco products)</a></li>
-<li><a href="http://blulab.chpc.utah.edu/content/mental-health">Mental Health (Augmenting mental health surveillance using microblog data)</a></li>
-</ul></div></div></div><div class="field field-name-field-project-publications field-type-text-long field-label-inline clearfix"><div class="field-label">Publications:&nbsp;</div><div class="field-items"><div class="field-item even"><p><a href="http://blulab.chpc.utah.edu/papers/using-twitter-examine-smoking-behavior-and-perceptions-emerging-tobacco-products">Myslín M, Zhu S-H, Chapman W, Conway M. Using twitter to examine smoking behavior and perceptions of emerging tobacco products. J Med Internet Res. 2013;15(8):e174.</a></p>
+<ul><li><a href="https://blulab-utah.github.io/content/tobacco">Tobacco (Understanding attitudes toward tobacco products)</a></li>
+<li><a href="https://blulab-utah.github.io/content/mental-health">Mental Health (Augmenting mental health surveillance using microblog data)</a></li>
+</ul></div></div></div><div class="field field-name-field-project-publications field-type-text-long field-label-inline clearfix"><div class="field-label">Publications:&nbsp;</div><div class="field-items"><div class="field-item even"><p><a href="https://blulab-utah.github.io/papers/using-twitter-examine-smoking-behavior-and-perceptions-emerging-tobacco-products">Myslín M, Zhu S-H, Chapman W, Conway M. Using twitter to examine smoking behavior and perceptions of emerging tobacco products. J Med Internet Res. 2013;15(8):e174.</a></p>
 <p><a href=""> Mowery DL, Bryan C, Conway M. Toward Developing an Annotation Scheme for Depressive Disorder Symptoms: A Preliminary Study using Twitter Data. A Preliminary Study using Twitter Data. Proceeding of Computational Linguistics and Clinical Psychology - From Linguistic Signal to Clinical Reality. 2015. Denver, CO </a></p>
 </div></div></div><div class="field field-name-field-project-websites field-type-text-long field-label-inline clearfix"><div class="field-label">Websites:&nbsp;</div><div class="field-items"><div class="field-item even"><ul><li>Annotation schemas for tweets
-<ul><li><a href="http://blulab.chpc.utah.edu/content/tobacco-twitter-schema">Tobacco (annotating attitudes)</a></li>
-<li><a href="http://blulab.chpc.utah.edu/content/mental-health-twitter-schema">Mental Health (annotating attitudes)</a></li>
+<ul><li><a href="https://blulab-utah.github.io/content/tobacco-twitter-schema">Tobacco (annotating attitudes)</a></li>
+<li><a href="https://blulab-utah.github.io/content/mental-health-twitter-schema">Mental Health (annotating attitudes)</a></li>
 </ul></li>
 </ul></div></div></div>    </div>
     

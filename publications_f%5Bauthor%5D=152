@@ -17,36 +17,36 @@
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
   <title>Publications | BLUlab</title>
   <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.base.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.menus.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.messages.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.theme.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/comment/comment.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/field/theme/field.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/node/node.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/search/search.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/user/user.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/views/css/views.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/biblio/biblio.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/style.css?pncn4v");
 </style>
 <style type="text/css" media="print">
-@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/print.css?pncn4v");
 </style>
-  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
-<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+  <script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"0RTCcjmuROdzCvv6J2vjGjKM6VfVM4SiKSEJVlLoJjg","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});

@@ -7,7 +7,7 @@
  <language>en</language>
 <item>
  <title>Front Page Image</title>
- <link>http://blulab.chpc.utah.edu/content/front-page-image</link>
+ <link>https://blulab-utah.github.io/content/front-page-image</link>
  <description>&lt;div class=&quot;field field-name-field-frontpage-body field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Natural Language Processing&lt;br /&gt;
 Department of Biomedical Informatics&lt;br /&gt;
 University of Utah&lt;/p&gt;
@@ -16,7 +16,7 @@ University of Utah&lt;/p&gt;
  <pubDate>Mon, 07 May 2012 17:46:53 +0000</pubDate>
  <dc:creator>fariba</dc:creator>
  <guid isPermaLink="false">5 at http://blulab.chpc.utah.edu</guid>
- <comments>http://blulab.chpc.utah.edu/content/front-page-image#comments</comments>
+ <comments>https://blulab-utah.github.io/content/front-page-image#comments</comments>
 </item>
 </channel>
 </rss>

@@ -19,40 +19,40 @@
 <link rel="canonical" href="/content/resources" />
   <title>Resources | BLUlab</title>
   <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.base.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.menus.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.messages.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/system/system.theme.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/comment/comment.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/field/theme/field.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/node/node.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/search/search.css?pncn4v");
+@import url("https://blulab-utah.github.io/modules/user/user.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/views/css/views.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/quicktabs/css/quicktabs.css?pncn4v");
-@import url("http://blulab.chpc.utah.edu/sites/all/modules/quicktabs/quicktabs_tabstyles/tabstyles/basic/basic.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/biblio/biblio.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/quicktabs/css/quicktabs.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/modules/quicktabs/quicktabs_tabstyles/tabstyles/basic/basic.css?pncn4v");
 </style>
 <style type="text/css" media="all">
-@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/style.css?pncn4v");
 </style>
 <style type="text/css" media="print">
-@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/print.css?pncn4v");
 </style>
-  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
-<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_5ZvYbR_RpAnAa4Gy_hGCjwhuaBQEWzQIAwlMCStkIuU.js"></script>
-<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_WZmIm2IkVkwkNMdvjShlyhR3KBgm8BSj-nMmdSqBKsA.js"></script>
+  <script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_5ZvYbR_RpAnAa4Gy_hGCjwhuaBQEWzQIAwlMCStkIuU.js"></script>
+<script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_WZmIm2IkVkwkNMdvjShlyhR3KBgm8BSj-nMmdSqBKsA.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"aSikBeT-BQsXsApt3jV1lhYH8DNZUTZ_Ah3XkLeWT7w","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/basic\/basic.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}},"ajax":{"quicktabs-tab-re-0":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/0\/view\/resources2\/page_1\/1\/node%252F9\/"},"quicktabs-tab-re-1":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/1\/view\/resources2\/page_4\/2\/node%252F9\/"},"quicktabs-tab-re-2":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/2\/view\/resources2\/page_5\/3\/node%252F9\/"},"quicktabs-tab-re-3":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/3\/view\/resources2\/page_2\/4\/node%252F9\/"},"quicktabs-tab-re-4":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/4\/view\/resources2\/page\/5\/node%252F9\/"}},"urlIsAjaxTrusted":{"\/quicktabs\/ajax\/re\/0\/view\/resources2\/page_1\/1\/node%252F9\/":true,"\/quicktabs\/ajax\/re\/1\/view\/resources2\/page_4\/2\/node%252F9\/":true,"\/quicktabs\/ajax\/re\/2\/view\/resources2\/page_5\/3\/node%252F9\/":true,"\/quicktabs\/ajax\/re\/3\/view\/resources2\/page_2\/4\/node%252F9\/":true,"\/quicktabs\/ajax\/re\/4\/view\/resources2\/page\/5\/node%252F9\/":true},"quicktabs":{"qt_re":{"name":"re","tabs":[{"vid":"resources2","display":"page_1","args":"","view_path":"node%2F9","view_dom_id":1,"ajax_args":"","actual_args":[]},{"vid":"resources2","display":"page_4","args":"","view_path":"node%2F9","view_dom_id":2,"ajax_args":"","actual_args":[]},{"vid":"resources2","display":"page_5","args":"","view_path":"node%2F9","view_dom_id":3,"ajax_args":"","actual_args":[]},{"vid":"resources2","display":"page_2","args":"","view_path":"node%2F9","view_dom_id":4,"ajax_args":"","actual_args":[]},{"vid":"resources2","display":"page","args":"","view_path":"node%2F9","view_dom_id":5,"ajax_args":"","actual_args":[]}],"ajaxPageState":{"theme":"blulab","theme_token":"aSikBeT-BQsXsApt3jV1lhYH8DNZUTZ_Ah3XkLeWT7w"}}}});
@@ -143,7 +143,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>2013 ShARe/CLEF Evaluation Lab Task 1 Script</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_5.png?itok=7orKXLA3" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_5.png?itok=7orKXLA3" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The evaluation script for the dataset for 2013 ShARe/CLEF eHealth Task 2 consists of de-identified clinical free-text notes authored in the ICU setting including discharge summaries, ECG reports, echocardiogram reports, and radiology reports from the MIMIC II database, version 2.5.<br />
@@ -165,7 +165,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 1 d
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>2013 ShARe/CLEF Evaluation Lab Task 2 Script</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_6.png?itok=X5uLJvFI" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_6.png?itok=X5uLJvFI" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The evaluation script for the dataset for 2013 ShARe/CLEF eHealth Task 2 consists of de-identified clinical free-text notes authored in the ICU setting including discharge summaries, ECG reports, echocardiogram reports, and radiology reports from the MIMIC II database, version 2.5.<br />
@@ -187,7 +187,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>Annotation Admin</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/annotation-icon.png?itok=wPEOT3t0" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/annotation-icon.png?itok=wPEOT3t0" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Annotation Admin</strong> is an annotation project management tool developed by the Utah VA and extended for the NLP ecosystem environment. Annotation Admin facilitates and supports annotation project management by communicating with an annotation tool client, the Extensible Human Oracle of Suite Tools (eHOST), using the following functionalities:</p>
@@ -215,7 +215,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>Annotation Registry</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_2.png?itok=sgYut1-W" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_2.png?itok=sgYut1-W" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Annotation Registry is an archive tool developed to facilitate annotator advertisement and recruitment for annotation tasks. Annotation Registry allows annotators to anonymously advertise their availability for an annotation task using an annotation profile that captures</p>
@@ -241,7 +241,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>Clinical NLP Evaluation Workbench</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/workbench.png?itok=kw0loyvV" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/workbench.png?itok=kw0loyvV" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The NLP Evaluation Workbench (Workbench) was developed so that an end user could compare and adjudicate the accuracy of clinical document annotations produced by two different NLP transformation pipelines. These transformation pipeline outputs may originate from reference standard human annotation systems (e.g. Knowtator) or automated NLP annotation systems (e.g. Topaz).</p>
@@ -262,7 +262,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>ConText</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1.png?itok=yHwwjbM-" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1.png?itok=yHwwjbM-" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>ConText is based on a negation algorithm called NegEx. ConText's input is a sentence with indexed clinical conditions. ConText's output for each indexed condition is the value for contextual features or modifiers. The initial version of ConText determines values for three modifiers: </p>
@@ -286,7 +286,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>Knowledge Author</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_0.png?itok=pczG_F66" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_0.png?itok=pczG_F66" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Knowledge Author is a tool to allow users to collaboratively develop domain content that is necessary for NLP application to produce valid results, as well as provide recommendations for additional domain content. It consists of three distinct applications:</p>
@@ -310,7 +310,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>NegEx</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/algorithm-icon_0.png?itok=ksbX5F_k" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_0.png?itok=ksbX5F_k" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="http://code.google.com/p/negex/">NegEx</a> locates trigger terms indicating a clinical condition is negated or possible and determines which text falls within the scope of the trigger terms. It can produce two types of output:</p>
@@ -333,7 +333,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>Onyx</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/onyx.png?itok=EwNHlON_" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/onyx.png?itok=EwNHlON_" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Onyx is the latest descendant of a string of NLP systems developed by Peter Haug and his students over the years at the University of Utah (SPRUS, SymText, and M+). Onyx integrates syntax and semantics to extract and encode clinical information from text. Onyx is currently being applied to [automatically charting dental conditions from recorded dental exams] but will be expanded to other document types and domains within clinical medicine. Onyx is written in java and is available upon request. We plan to make Onyx available open source when we release version 1.0.</p>
@@ -353,7 +353,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>pyConText</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/algorithm-icon.png?itok=ljoP1UeI" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon.png?itok=ljoP1UeI" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The pyConText algorithm is an extension of the original ConText algorithm. Specifically, the pyConText algorithm differs from the ConText algorithm in a number of ways:</p>
@@ -378,7 +378,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>Schema Ontology Parser</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_1.png?itok=AA8x34ZD" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_1_1.png?itok=AA8x34ZD" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-field-toolfinder-link field-type-text field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://github.com/Blulab-Utah/domainOntology" target="_blank">Read more</a></p>
@@ -398,7 +398,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>SKOS Editor</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/edit-icon_0.png?itok=E6Ek2cWg" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/edit-icon_0.png?itok=E6Ek2cWg" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>SKOS (Simple Knowledge Organization System) editor is a web application that allows users with a linguistic background to create SKOS knowledge bases without the need for any specific programming skills. It provides a web interface for creating and editing SKOS ontologies including creating schemas, concepts, object properties, and data properties. The user interface provides the functionality to create, edit, remove, rename, and move concepts within the ontology. The user can create a SKOS ontology from scratch or upload an already existing ontology via file upload or URL into the interface.</p>
@@ -419,7 +419,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>TextVect</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/application-icon.png?itok=q_srxL1k" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/application-icon.png?itok=q_srxL1k" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>TextVect</strong> helps you convert clinical text documents into a <em>feature vector</em> that can be used to train classification models. In addition to generating n-grams from the text, TextVect leverages existing state-of-the-art NLP tools to generate syntactic and semantic features that may improve text classification performance. TextVect wraps the NLP tools in a UIMA pipeline so that the user does not have to install the tools. In addition to generating feature, TextVect allows the user to select different types of vector representation, performs feature selection to reduce the feature space, and can train a classifier. For example, if you have a set of discharge summaries with gold standard classifications, such as whether the patient had a bleeding event, TextVect could create a dataset with <em>features</em> and <em>labels</em> that you could use to train a model. This model would then predict bleeding for other unseen discharge summary reports.</p>
@@ -440,7 +440,7 @@ The dataset consists of 200 training set notes, and 100 test set notes. Task 2 c
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>Topaz</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://blulab.chpc.utah.edu/sites/default/files/styles/square_thumbnail/public/Topaz-icon.png?itok=mLOJlub2" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/Topaz-icon.png?itok=mLOJlub2" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Topaz is a tool that supports information extraction of clinical conditions from narrative reports. In addition to  identifying words like "fever" in the text and mapping them to standard vocabularies, Topaz can (a) detect the concept <em>temperature</em> and its numeric value <em>102 F</em> to determine that the concept <em>fever</em> is present in the document and (b) use section headings to help identify clinical conditions, such as the concept <em>cervical lymphadenopathy</em> from the word "adenopathy" in the "NECK" section of the report, and (c) using if-then rules that apply to single or multiple matched concepts in order to infer more complex concepts, for instance inferring “influenza-like illness” from the description “fever AND sore throat OR cough”.  If-then rules can also be used to infer more general conditions from more specific ones, e.g. inferring “diarrhea” based on detection of the concept “bloody diarrhea”. Users define a relevant set of “core concepts”, and Topaz contains embedded ConText rules that identify whether each core concept is present, absent, or uncertain, who experienced the condition (the patient or someone else), and whether the condition occurred recently or in the past. Topaz’s last pipeline module determines the document-level status of each of the core concepts, e.g. whether the patient had a fever based on sentence-level references to the concept “fever”.  Topaz returns a set of UIMA annotations representing phrase and document-level annotations of core concepts with ConText features (temporality, experiencer, polarity) added.</p>
