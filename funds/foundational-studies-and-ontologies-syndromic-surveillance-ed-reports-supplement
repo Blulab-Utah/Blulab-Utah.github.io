@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/35" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/funds/foundational-studies-and-ontologies-syndromic-surveillance-ed-reports-supplement" />
+  <title>Foundational Studies and Ontologies for Syndromic Surveillance from ED Reports, Supplement | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"8VkYckVYjUrzvd1JNNU4xziq7CYOj-gNPAiWscb5ovc","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-35 node-type-fund" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Foundational Studies and Ontologies for Syndromic Surveillance from ED Reports, Supplement</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-35" class="node node-fund fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><a href="http://projectreporter.nih.gov/project_info_details.cfm?aid=8251424&amp;icde=11082755">Foundational Studies and Ontologies for Syndromic Surveillance from ED Reports, Supplement (2007-2011)</a></strong></p>
+<p>Many NLP applications have been successfully developed to extract information from text. Most of the applications have focused on identifying individual clinical conditions in textual records, which is the first step in making the conditions available to computerized applications. However, identifying individual instances of clinical conditions is not sufficient for many medical informatics tasks - the context surrounding the condition is crucial for integrating the information within the text to determine the clinical state of a patient. We propose to perform in-depth studies on NLP issues requiring knowledge of the context of clinical conditions in clinical records. We will focus our research by using syndromic surveillance from emergency department (ED) reports as a case study. For this proposal, we will test the following hypothesis: An NLP system that indexes clinical concepts and integrates contextual information modifying the concepts can identify acute clinical conditions from ED reports as well as physicians can. We will identify clinical concepts necessary for surveillance of seven syndromes, including respiratory, gastrointestinal, neurological, rash, hemorrhagic, constitutional, and botulinic.</p>
+<p>To evaluate the hypothesis, we will perform the following specific aims:</p>
+<ol><strong>Aim 1: </strong>Perform in-depth, foundational studies on four NLP topics to gain a deeper understanding of the pertinent NLP research capabilities required for identification of acute clinical conditions from ED reports, including negation, uncertainty, temporal discrimination, and finding validation</ol><ol><strong>Aim 2: </strong>Apply the knowledge learned from the foundational studies to develop and evaluate an automated application for ED reports that will determine the values for clinical variables relevant to identifying patients with any of seven syndromes.</ol><p><strong>Selected Publications, Papers, and Presentations</strong></p>
+<blockquote><li>Harkema H, Thornblade T, Dowling J, Chapman WW. Portability of ConText: An Algorithm for determining Negation, Experiencer, and Temporal Status from Clinical Reports. J Biomed Inform. 2009 Oct;42(5):839-51. PMCID: PMC2757457 NIHMSID: NIHMS117020</li>
+<li>Chapman WW, Dowling JN, Scholer M, et al. Developing syndrome definitions based on consensus and current use. J Am Med Inform Assoc 2010;17:595-601. PMID: 20819870 [PubMed - indexed for MEDLINE] PMCID: PMC2995670 </li>
+<li>Wilson RA, Chapman WW, DeFries SJ, Becich MJ, Chapman BE. Identifying history of ancillary cancers in mesothelioma patients from free-text clinical reports. J Pathology Inform. 2010;1:1:24. PMID: 21031012 PMCID: PMC2956176</li>
+<li>Chapman BE, Lee S, Kang HP, Chapman WW. Document-Level Classification of CT Pulmonary Angiography Reports based on an Extension of the ConText Algorithm PMID: 21459155</li>
+<li>Chapman WW, Saul M, Houston J, Irwin J, Mowery D, Harkema H, Becich M. Creation of a repository of automatically de-identified clinical reports: processes, people, and permission. American Medical Informatics Association on Clinical Research Informatics. 2010</li>
+<li>Mowery DL, Harkema H, Chapman B, Hwa R, Wiebe J, Chapman WW. An automated SOAP classifier for emergency department reports. Annu AMIA Symp. San Francisco, CA. 2010.</li>
+<li>Jordan PW, Mowery DL, Wiebe J, Chapman WW. Annotating conditions in clinical narratives to support temporal classification. Annu AMIA Symp. San Francisco, CA. 2010. </li>
+<li>Mowery DL, Jordan PW, Wiebe JM, Liu L, Chapman WW. Does domain knowledge matter for assertion annotation in clinical text? International Conference on Healthcare Informatics, Imaging and Systems Biology. San Diego, CA. Sept 2012.  </li>
+<li>Mowery DL, Wiebe J, Visweswaran SH, Harkema H, Chapman WW. Building an automated SOAP classifier for emergency department reports. J Biomed Inform. 2012: 45. 71-81.</li>
+<li>Conway M, Chapman W. Discovering Lexical Instantiations of Clinical Concepts using Web Services, WordNet, and Corpus Resources. Annu AMIA Symp. 2012. 1604</li>
+<li>Henriksson A, Conway M, Duneld M, Chapman WW. Identifying Synonymy between SNOMED Clinical Terms of Varying Length Using Distributional Analysis of Electronic Health Records. AMIA Annu Symp Proc. 2013; 2013: 600–609.</li>
+<li>Conway M, Dowling J, Chapman W. Using Chief Complaints for Syndromic Surveillance: A Review of Chief Complaint Classifiers in North America. J Biomed Inform. 2013 Aug;46(4):734-43</li>
+<li>Conway M, Dowling J, Chapman W.  Developing an Application Ontology for Mining Free Text Clinical Reports: The Extended Syndromic Surveillance Ontology. In Third International Workshop on Health Document Text Mining and Information Analysis (LOUHI 2011). 2011, pp. 75–82</li>
+<li>Conway M, Dowling J, Chapman W. Developing a Biosurveillance Application Ontology for Influenza-Like-Illness. In Proceedings of the 6th Workshop on Ontologies and Lexical Resources. 2010, pp. 58–66.</li>
+<li>Chen, A., Chapman, W., Conway, M., And Chapman, B. A Web Based Platform to Support Text Mining of Clinical Reports. In International Society for Disease Surveillance Annual Conference. 2011, p. 27.</li>
+<li>Wang, L., Zhang, M., Conway, M., Haug, P., And Chapman, W. Using cKASS to Facilitate Knowledge Authoring and Sharing for Syndromic Surveillance. In International Society for Disease Surveillance Annual Conference. 2011, p. 158</li>
+<li>Conway M, Dowling J, Chapman W. Evaluating Syndrome Definitions in the Extended Syndromic Surveillance Ontology. In International Society for Disease Surveillance Annual Conference. 2011, p. 32.</li>
+<li>Conway M, Dowling J, Tsui R, Chapman, W. Developing an Application Ontology for Mining Clinical Reports: The Extended Syndromic Surveillance Ontology. In International Society for Disease Surveillance Annual Conference. 2010, p. 15</li>
+<li>Chapman W, Christensen L, Dowling J, Lee Q, Conway M, Harkema H, Tsui, R. Challenges in Adapting an NLP System for Real-time Surveillance. In International Society for Disease Surveillance Annual Conference. 2010, p. 7</li>
+<li>Conway M, Okhmatovskia A, Buckeridge D, Chapman, W. Using Consensus Syndrome Definitions to Classify Chief Complaints — The Onto-Classifier Web Application. In American Medical Informatics Association Symposium. 2010, p. 1012</li>
+<li>Mowery D, Harkema H, Dowling J, Lustgarten J, Chapman WW. Distinguishing Historical from Current Problems in Clinical Reports – Which Textual Features Help? In: BioNLP Workshop of the Association for Computational Linguistics, Boulder, CO; 2009. pp. 10-18. </li>
+<li>Irwin JY, Harkema H, Christensen L, Haug PJ, Chapman WW. Methodology to Develop and Evaluate a Semantic Representation for NLP. Proc AMIA Symp. J Am Med Inform Assoc Suppl 16. 2009;:271-5. PMID: 20351863 [PubMed - indexed for MEDLINE] PMCID: PMC2815383</li>
+<li>Harkema H, Chapman WW, Saul M, Dellon ES, Schoen RE, Mehrotra A. Developing a natural language processing application for measuring the quality of colonoscopy procedures. J AM Med Inform Assoc. 2011 Dec; 18 Suppl 1:150-6</li>
+</blockquote>
+</div></div></div><div class="field field-name-field-fund-pi field-type-text field-label-inline clearfix"><div class="field-label">PI:&nbsp;</div><div class="field-items"><div class="field-item even">Wendy Chapman</div></div></div>    </div>
+    
+        
+          <div class="links"></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

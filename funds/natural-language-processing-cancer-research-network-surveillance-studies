@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/38" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/funds/natural-language-processing-cancer-research-network-surveillance-studies" />
+  <title>Natural Language Processing for Cancer Research Network Surveillance Studies | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"5jxkRgEcwAVt5diXaIP4ZXgixyoWBjRkJHx_SxOP93E","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-38 node-type-fund" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Natural Language Processing for Cancer Research Network Surveillance Studies</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-38" class="node node-fund fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><a href="http://projectreporter.nih.gov/project_info_description.cfm?aid=7839706&amp;icde=11113162">Natural Language Processing for Cancer Research Network Surveillance Studies (2009 - 2011)</a></strong></p>
+<p>This application addresses Broad Challenge Area: (10) Information Technology for Processing Health Care Data and specific Challenge Topic: 10-CA-107 Expand Spectrum of Cancer Surveillance through Informatics Approaches. The proposed project launches a collaborative effort to advance adoption within the HMO Cancer Research Network (CRN) of "industrial-strength" natural language processing (NLP) systems useful for mining valuable, research-grade information from unstructured clinical text. Such text is available for processing, now in the electronic medical record (EMR) systems of affiliated CRN health plans. The proposed NLP methods will create ongoing capacity to tap what has recently been described as "a treasure trove of historical unstructured data that provides essential information for the study of disease progression, treatment effectiveness and long-term outcomes" (5). The vision of advancing widespread NLP capacity across the CRN, as well as the approach we present here for implementing it, grew out of an in-depth strategic planning effort we completed in December 2008. That effort involved participants from six CRN sites guided by a blue-ribbon panel of NLP experts from three of the nation's leading centers of clinical NLP research: University of Pittsburgh Medical Center, Vanderbilt University, and Mayo Clinic. The vision is to deploy a powerful NLP system locally, manage it with newly hired and trained local NLP technical staff, and conduct NLP-based research projects initiated by local investigators, in consultation with higher-level external NLP experts. Our planning efforts suggest this collaborative model is feasible; we will test the model in the context of the proposed project. An important development in April 2009 yielded what we believe is a potentially transformative opportunity to accelerate adoption of NLP capacity in applied research settings: release of the open-source Clinical Text Analysis and Knowledge Extraction System (cTAKES) software. This software was the result of a collaborative effort between IBM and Mayo Clinic. Built on the same framework Mayo Clinic currently uses to process its repository of over 40 million clinical documents, cTAKES dramatically lowers the cost of adopting a comprehensive and flexible NLP system. Deployment and use of such systems was previously only feasible in institutions with large, academically-oriented biomedical informatics research programs. Still, other deployment challenges and the need to acquire NLP training for local staff present residual barriers to adopting comprehensive NLP systems such as cTAKES. In collaboration with five other CRN sites the proposed project mitigates these challenges in two ways: 1) it develops configurable open-source software modules needed to streamline and therefore reduce the cost of deploying cTAKES, and 2) it presents and tests a model for training local staff through hands-on NLP projects overseen by outside NLP expert consultants. The potential impact of this project is evident most clearly in the vast untapped opportunities for text mining represented in CRN-affiliated health plans, where EMR systems have been in place since at least 2005, and whose patients represent 4% of the U.S. population. Clinical text mining offers the potential to provide new or improved data elements for cancer surveillance and other types of research requiring information about patient functional status, medication side-effects, details of therapeutic approaches, and differential information about clinical findings. Another significant impact of this project is its plan to integrate into the cTAKES system an open-source de-identification tool based on state of the art, best of breed NLP approaches developed by the MITRE Corporation. De-identification of clinical text will make it easier for researchers to get access to clinical text, and will also facilitate multi-site collaborations while protecting patient privacy. Finally, if successful, the NLP algorithm we propose as a proof-of-principle project at Group Health-which will classify sets of patient charts as either containing or not containing a diagnosis of recurrent breast cancer-could dramatically reduce the cost of research in this area; currently all recurrent breast cancer endpoints must be established through costly manual chart abstraction. Novel aspects of the proposed project include its talented and transdisciplinary research team, including national experts in NLP, and its resourceful strategy for building the technical resources and "human capital" needed to support an ongoing program of applied NLP research. Natural language processing is itself a highly innovative technology; when successfully established in multiple CRN in the future it will represent a watershed moment in the CRN's already impressive history of exploiting data systems to support innovative research. Newly hired staff positions total approximately 2.0 FTE in each project year, most of which we anticipate will be supported by ongoing new research programs after the proposed project concludes. Project narrative The proposed project develops new measurement technologies for extracting information about disease processes and treatment, currently documented only in clinical text, based on natural language processing approaches. Because these methods are generic they will potentially contribute to public health by advancing research in a wide variety of areas. The "proof of principle" algorithm developed in the project to identify recurrent breast cancer diagnoses will advance epidemiologic and clinical research pertaining to the 2.5 million women currently living with breast cancer.</p>
+<p><strong>Selected Publications, Posters, and Presentations</strong></p>
+<blockquote><li> Carrell DS, Halgrim S, Tran DT, Buist DS, Chubak J, Chapman WW, Savova G. Using natural language processing to improve efficiency of manual chart abstraction in research: the case of breast cancer recurrence. Am J Epidemiol. 2014 Mar 15;179(6):749-58. doi: 10.1093/aje/kwt441. Epub 2014 Jan 30. PubMed PMID: 24488511; PubMed Central PMCID: PMC3939853</li>
+<li> Carrell DS, Halgrim S, Tran DT, Buist DS, Chubak J, Chapman WW, Savova G. Carrell et al. respond. to "Observational research and the EHR". Am J Epidemiol. 2014 Mar 15;179(6):762-3. doi: 10.1093/aje/kwt444. Epub 2014 Jan 30. PubMed PMID: 24488509; PubMed Central PMCID: PMC4081638</li>
+</blockquote>
+</div></div></div><div class="field field-name-field-fund-pi field-type-text field-label-inline clearfix"><div class="field-label">PI:&nbsp;</div><div class="field-items"><div class="field-item even">David Carrell</div><div class="field-item odd">Wendy Chapman (Co-I)</div></div></div>    </div>
+    
+        
+          <div class="links"></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

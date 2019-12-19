@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/40" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/funds/natural-language-processing-respiratory-surveillance" />
+  <title>Natural Language Processing for Respiratory Surveillance | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"uoRRZOz-0pYGoZxnLMlRn5UniVUOWiI59EfdUuNV_7Q","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-40 node-type-fund" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Natural Language Processing for Respiratory Surveillance</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-40" class="node node-fund fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong><a href="http://dbmi.ucsd.edu/confluence/display/DBMI/Funded+Grants+%28W.+Chapman%29">Natural Language Processing for Respiratory Surveillance (2004 - 2007)</a></strong></p>
+<p>The applicant's long-term career goal is to become an independent investigator in biomedical informatics research. She will dedicate her career to developing and evaluating methodologies for improving the processes and outcomes of healthcare using data locked in textual documents. This career development award will provide her with initial support for achieving her career goals. The applicant has three goals for her career development over the next three years. First, she will compare the performance of different machine learning techniques at detecting patients with a respiratory syndrome. The proposed research will expand the state-of-the-art syndromic surveillance capabilities by integrating findings, symptoms, and diseases described in textual medical records. The product of the first research goal will be a model for respiratory syndromic case detection for monitoring natural and bioterrorism induced respiratory outbreaks. Second, she will apply existing methods and develop new techniques for extracting clinical conditions required for respiratory case detection from emergency department notes, contributing new knowledge to the medical language processing field using sentence and report level models that account for uncertainty, negation, and temporal occurrence. The product of the second goal will be a better understanding of the information required for accurate detection of respiratory related conditions from text and useful tools for automatically extracting that information. Third, she will teach, promote, and facilitate the use of natural language processing in the biomedical informatics field. The product of the third goal will be a graduate class surveying medical language processing methodology and applications and development of general tools sets for researchers who need encoded data from textual patient records.</p>
+<p>The proposed research will focus on:</p>
+<ol><strong>Aim 1: </strong>Development and evaluation of a respiratory case detection model.</ol><ol><strong>Aim 2: </strong>Integration of existing natural language processing tools and development of new methodologies for extracting clinical conditions needed for respiratory case detection from textual records.</ol><ol><strong>Aim 3: </strong>Comparison of existing syndromic detection algorithms that use admit data against the same algorithms using conditions extracted from textual reports.</ol></div></div></div><div class="field field-name-field-fund-pi field-type-text field-label-inline clearfix"><div class="field-label">PI:&nbsp;</div><div class="field-items"><div class="field-item even">Wendy Chapman</div></div></div>    </div>
+    
+        
+          <div class="links"></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

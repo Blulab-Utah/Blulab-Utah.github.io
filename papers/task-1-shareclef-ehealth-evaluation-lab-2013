@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/133" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/papers/task-1-shareclef-ehealth-evaluation-lab-2013" />
+  <title>Task 1: ShARe/CLEF eHealth Evaluation Lab 2013 | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"rPp6FIsr5OvJw0Z0jw8PvI1EuxdFGd5p08MYGeWDdds","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-133 node-type-biblio" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Task 1: ShARe/CLEF eHealth Evaluation Lab 2013</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-133" class="node node-biblio fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div id="biblio-node"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.title=Task+1%3A+ShARe%2FCLEF+eHealth+Evaluation+Lab+2013&amp;rft.date=2013&amp;rft.pub=CLEF+Proc.&amp;rft.place=Valencia%2C+Spain"></span><table>
+<tbody>
+ <tr class="odd"><td class="biblio-row-title">Title</td><td>Task 1: ShARe/CLEF eHealth Evaluation Lab 2013</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Publication Type</td><td>Conference Proceedings</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Year of Conference</td><td>2013</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Authors</td><td><a href="/publications?f%5Bauthor%5D=105" rel="nofollow">Pradhan, S</a>, <a href="/publications?f%5Bauthor%5D=104" rel="nofollow">Elhadad, N</a>, <a href="/publications?f%5Bauthor%5D=106" rel="nofollow">South, BR</a>, <a href="/publications?f%5Bauthor%5D=112" rel="nofollow">Martinez, D</a>, <a href="/publications?f%5Bauthor%5D=43" rel="nofollow">Christensen, L</a>, <a href="/publications?f%5Bauthor%5D=119" rel="nofollow">Vogel, A</a>, <a href="/publications?f%5Bauthor%5D=100" rel="nofollow">Suominen, H</a>, <a href="/publications?f%5Bauthor%5D=10" rel="nofollow">Chapman, WW</a>, <a href="/publications?f%5Bauthor%5D=103" rel="nofollow">Savova, G</a></td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Conference Name</td><td>CLEF</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Date Published</td><td>2013</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Publisher</td><td>CLEF Proc.</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Conference Location</td><td>Valencia, Spain</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">URL</td><td><a href="http://idash.ucsd.edu/sites/default/files/uploads/Brett%20South%20Poster.pdf">http://idash.ucsd.edu/sites/default/files/uploads/Brett%20South%20Poster.pdf</a></td> </tr>
+</tbody>
+</table>
+</div>    </div>
+    
+        
+          <div class="links"><ul class="links inline"><li class="0 first last"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Task%2B1%3A%2BShARe/CLEF%2BeHealth%2BEvaluation%2BLab%2B2013%22&amp;as_sauthors=Pradhan&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+</ul></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

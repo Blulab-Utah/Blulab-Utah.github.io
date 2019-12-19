@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Publications | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"wAonUUEOz3KQSyQ5_PyAFioE6z2givhW_hC5kzzHbls","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-publications" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636 active-trail active"><a href="/publications" title="" class="active-trail active">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Publications</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="biblio-header" class="clear-block"><div class="biblio-export">Found 1 results</div><div class="biblio-filter-status"><div class="biblio-current-filters"><b>Filters: </b><strong><em class="placeholder">Keyword</em></strong> is <strong><em class="placeholder">Medical Informatics</em></strong><em> and</em> <strong><em class="placeholder">Author</em></strong> is <strong><em class="placeholder">Savova, Guergana</em></strong>&nbsp;&nbsp;<a href="/publications/filter/clear">[Clear All Filters]</a></div></div></div><div class="biblio-category-section"><div class="biblio-separator-bar">2013</div><div class="biblio-entry"><span class="biblio-authors" ><a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=100" rel="nofollow" class="active">Suominen H</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=101" rel="nofollow" class="active">Salanterä S</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=91" rel="nofollow" class="active">Velupillai S</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=102" rel="nofollow" class="active">Chapman WW</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=103" rel="nofollow" class="active">Savova G</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=104" rel="nofollow" class="active">Elhadad N</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=105" rel="nofollow" class="active">Pradhan S</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=106" rel="nofollow" class="active">South BR</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=107" rel="nofollow" class="active">Mowery DL</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=108" rel="nofollow" class="active">Jones GJF</a>, et al.</span> <a href="/papers/overview-shareclef-ehealth-evaluation-lab-2013"><span class="biblio-title" >Overview of the ShARe/CLEF eHealth Evaluation Lab 2013</span></a>. In: <span class="biblio-authors" ><a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=114" rel="nofollow" class="active">Forner P</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=115" rel="nofollow" class="active">Müller H</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=116" rel="nofollow" class="active">Paredes R</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=117" rel="nofollow" class="active">Rosso P</a>, <a href="/publications?f%5Bkeyword%5D=46&amp;f%5Bauthor%5D=118" rel="nofollow" class="active">Stein B</a></span> Information Access Evaluation. Multilinguality, Multimodality, and Visualization. Vol. 8138. Information Access Evaluation. Multilinguality, Multimodality, and Visualization. Springer Berlin Heidelberg; 2013. pp. 212-231. Available from: <a href="http://dx.doi.org/10.1007/978-3-642-40802-1_24">http://dx.doi.org/10.1007/978-3-642-40802-1_24</a><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.atitle=Overview+of+the+ShARe%2FCLEF+eHealth+Evaluation+Lab+2013&amp;rft.title=Information+Access+Evaluation.+Multilinguality%2C+Multimodality%2C+and+Visualization&amp;rft.btitle=Information+Access+Evaluation.+Multilinguality%2C+Multimodality%2C+and+Visualization&amp;rft.series=Lecture+Notes+in+Computer+Science&amp;rft.isbn=978-3-642-40801-4&amp;rft.date=2013&amp;rft.volume=8138&amp;rft.spage=212&amp;rft.epage=231&amp;rft.aulast=Suominen&amp;rft.aufirst=Hanna&amp;rft.au=Salanter%C3%A4%2C+Sanna&amp;rft.au=Salanter%C3%A4%2C+Sanna&amp;rft.au=Chapman%2C+WendyW.&amp;rft.au=Savova%2C+Guergana&amp;rft.au=Elhadad%2C+Noemie&amp;rft.au=Pradhan%2C+Sameer&amp;rft.au=South%2C+BrettR.&amp;rft.au=Mowery%2C+DanielleL.&amp;rft.au=Jones%2C+GarethJ.F.&amp;rft.au=Leveling%2C+Johannes&amp;rft.au=Kelly%2C+Liadh&amp;rft.au=Goeuriot%2C+Lorraine&amp;rft.au=Martinez%2C+David&amp;rft.au=Zuccon%2C+Guido&amp;rft.pub=Springer+Berlin+Heidelberg&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-642-40802-1_24"></span></div></div>		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

@@ -1,0 +1,178 @@
+#!/usr/bin/perl -w
+# Parameters:
+# -input (prediction directory)
+# -gold (goldstandard directory)
+# -n (specify name of run)
+# -r (specify 1 or 2 for which run)
+# -t (specifiy 1a, 1b)
+# -a (optional - include if you used additional annotations)
+
+# Output file: name + run + task + add/noadd (e.g. myrun.1.1a.add)
+
+# Example:
+# perl eval.pl -n myrun -r 1 -t 1a -input Example -gold Gold -a
+# ./eval_t2.pl -n test -r 1 -t 2 -input Data/Task2/Example/output -gold Data/Task2/Task2ReferenceStd_CLEFShARe2013Test_StrictAndLenientpipe -a
+
+# Author: David Martinez (david.martinez@nicta.com.au)
+
+use strict;
+
+use vars qw (%Pred %Gold @F $doc $bdary $tp $fp $fn $i @File $f);
+
+use Getopt::Long;
+
+my $add = "noadd";
+my $name = "";
+my $run = "";
+my $input = "";
+my $gold = "";
+my $task = "";
+my $error = "# Parameters:\n# -input (prediction file)\n# -gold (goldstandard file)\n# -n (specify name of run)\n# -r (specify 1 or 2 for which run)\n# -t (specifiy 1a, 1b (optional), 2 for which task)\n# -a (optional - include if you used additional annotations)\n";
+
+
+GetOptions ('a' => \$add,
+	    'n=s'=>\$name,
+	    'r=n'=>\$run,
+	    't=s'=>\$task,
+	    'input=s'=>\$input,
+	    'gold=s'=>\$gold	  
+    )||die "$error";
+
+if (($name eq "")||($input eq "")||($gold eq "")) {
+    die "$error";}
+if (($run != 1)&&($run != 2)) {
+    die "Incorrect run id\n";}
+if (($task ne "1a")&&($task ne "1b")&&($task ne "2")) {
+    die "Incorrect task id\n";}
+if ($add eq "1") {
+    $add = "add";
+}
+
+# read predictions
+opendir(D,$input)||die;
+@File = grep /^[^\.].*[^\~]$/,readdir D;
+closedir(D);
+undef %Pred;
+foreach $f (@File) {
+    open(I,"$input/$f")||die "Input file not found: $input\/$f\n";
+
+    while(<I>) {
+	chomp;
+	if ($_ !~ /^$/) {
+	    @F = split(/\|\|/,$_);	
+	    if ($#F % 2 != 0) {
+		pop @F; #some participants have added the string
+	    }
+
+	    if (not defined $F[4]) {
+		print "Error: incorrect number of arguments in prediction file: $f Line $.\n";
+		next;
+	    }
+
+
+	    foreach($i=3;$i<$#F;$i++) {
+		if ($F[$i+1] < $F[$i]) {
+		    print "Error: Span offsets should be in increasing order in the prediction file: $f Line $.\n";
+		    last;}
+	    }
+	    $_ = join "\-",@F[3..$#F];
+	    s /\cM$//;
+	    $F[2] = lc($F[2]);
+	    $F[0] =~s /\.data\.txt/\.txt/;
+	    $Pred{$F[0]}{$_} = $F[2];
+	}
+    }
+    close(I);
+}
+
+# read goldstandard
+opendir(D,$gold)||die;
+@File = grep /^[^\.].*[^\~]$/,readdir D;
+closedir(D);
+undef %Gold;
+foreach $f (@File) {
+    open(I,"$gold/$f")||die "Goldstandard file not found: $gold\/$f\n";
+    
+    while(<I>) {
+	chomp;
+	if ($_ !~ /^$/) {
+	    @F = split(/\|\|/,$_);
+	    my $aux = pop @F;
+	    die "Error: incorrect number of arguments in goldstandard file: Line $.\n" if (not defined $F[4])||($#F % 2 != 0);
+	    foreach($i=3;$i<$#F;$i++) {die "Error: Span offsets should be in increasing order in the goldstandard file: File $f Line $.\n" if $F[$i+1] < $F[$i];}
+	    $_ = join "\-",@F[3..$#F];
+	    $F[2] = lc($F[2]);
+	    $Gold{$F[0]}{$_}{'g1'} = $F[2];
+	    $aux = lc($aux);
+	    $Gold{$F[0]}{$_}{'g2'} = $aux;
+	}
+    }
+    close(I);
+}
+
+open(O,">$name")||die "Error: Cannot write file: $name\n";
+
+&task2;
+
+sub task2 {
+# TASK 2
+
+# strict
+    $tp = 0; $fp = 0; $fn = 0;
+    foreach $doc (keys %Pred) {    
+	foreach $bdary (keys %{$Pred{$doc}}) {	
+	    if ((defined $Gold{$doc}{$bdary})&&
+		($Gold{$doc}{$bdary}{'g1'} eq $Pred{$doc}{$bdary})) {	    
+		$tp++;
+	    }
+	}
+    }
+    foreach $doc (keys %Gold) {
+	foreach $bdary (keys %{$Gold{$doc}}) {
+	    if ((not defined $Pred{$doc}{$bdary})||
+		($Gold{$doc}{$bdary}{'g1'} ne $Pred{$doc}{$bdary})) {
+		$fn++;
+	    }
+	}
+    }
+    
+    print O "\n* Task 2 Strict:\n";
+    &print_acc($tp,$fp,$fn);
+    
+# relaxed
+    $tp = 0; $fp = 0; $fn = 0;
+    foreach $doc (keys %Pred) {    
+	foreach $bdary (keys %{$Pred{$doc}}) {	
+	    if ((defined $Gold{$doc}{$bdary})&&
+		(($Gold{$doc}{$bdary}{'g1'} eq $Pred{$doc}{$bdary})||
+		 ($Gold{$doc}{$bdary}{'g2'} eq $Pred{$doc}{$bdary}))) {	    
+		$tp++;
+	    }
+	}
+    }
+    foreach $doc (keys %Gold) {
+	foreach $bdary (keys %{$Gold{$doc}}) {
+	    if ((not defined $Pred{$doc}{$bdary})||
+		(($Gold{$doc}{$bdary}{'g1'} ne $Pred{$doc}{$bdary})&&
+		 ($Gold{$doc}{$bdary}{'g2'} ne $Pred{$doc}{$bdary}))) {
+		$fn++;
+	    }
+	}
+    }
+    
+    print O "\n* Task 2 Relaxed:\n";
+    &print_acc($tp,$fp,$fn);
+}
+
+sub print_acc {
+    my $tp = $_[0];
+    my $fp = $_[1];
+    my $fn = $_[2];
+
+    $_ = 0;
+    if ($tp != 0) {
+	$_ = $tp / ($tp + $fp + $fn);
+    }
+
+    printf O ("Accuracy: \t%0.3f\n",$_);
+}

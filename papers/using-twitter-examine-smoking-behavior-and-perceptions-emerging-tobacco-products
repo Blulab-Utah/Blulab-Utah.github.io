@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/119" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/papers/using-twitter-examine-smoking-behavior-and-perceptions-emerging-tobacco-products" />
+  <title>Using twitter to examine smoking behavior and perceptions of emerging tobacco products. | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"66VLhQok3AleE9czylrfZfanZWEj-hhxP8ag67gCF7w","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-119 node-type-biblio" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Using twitter to examine smoking behavior and perceptions of emerging tobacco products.</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-119" class="node node-biblio fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div id="biblio-node"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=Using+twitter+to+examine+smoking+behavior+and+perceptions+of+emerging+tobacco+products.&amp;rft.title=J+Med+Internet+Res&amp;rft.issn=1438-8871&amp;rft.date=2013&amp;rft.volume=15&amp;rft.issue=8&amp;rft.spage=e174&amp;rft.aulast=Mysl%C3%ADn&amp;rft.aufirst=Mark&amp;rft.au=Zhu%2C+Shu-Hong&amp;rft.au=Zhu%2C+Shu-Hong&amp;rft.au=Conway%2C+Mike&amp;rft_id=info%3Adoi%2F10.2196%2Fjmir.2534"></span><table>
+<tbody>
+ <tr class="odd"><td class="biblio-row-title">Title</td><td>Using twitter to examine smoking behavior and perceptions of emerging tobacco products.</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Publication Type</td><td>Journal Article</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Year of Publication</td><td>2013</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Authors</td><td><a href="/publications?f%5Bauthor%5D=97" rel="nofollow">Myslín, M</a>, <a href="/publications?f%5Bauthor%5D=98" rel="nofollow">Zhu, S-H</a>, <a href="/publications?f%5Bauthor%5D=18" rel="nofollow">Chapman, W</a>, <a href="/publications?f%5Bauthor%5D=99" rel="nofollow">Conway, M</a></td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Journal</td><td>J Med Internet Res</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Volume</td><td>15</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Issue</td><td>8</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Pagination</td><td>e174</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Date Published</td><td>2013</td> </tr>
+ <tr class="even"><td class="biblio-row-title">ISSN</td><td>1438-8871</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Abstract</td><td><p>BACKGROUND: Social media platforms such as Twitter are rapidly becoming key resources for public health surveillance applications, yet little is known about Twitter users' levels of informedness and sentiment toward tobacco, especially with regard to the emerging tobacco control challenges posed by hookah and electronic cigarettes.OBJECTIVE: To develop a content and sentiment analysis of tobacco-related Twitter posts and build machine learning classifiers to detect tobacco-relevant posts and sentiment towards tobacco, with a particular focus on new and emerging products like hookah and electronic cigarettes.METHODS: We collected 7362 tobacco-related Twitter posts at 15-day intervals from December 2011 to July 2012. Each tweet was manually classified using a triaxial scheme, capturing genre, theme, and sentiment. Using the collected data, machine-learning classifiers were trained to detect tobacco-related vs irrelevant tweets as well as positive vs negative sentiment, using Naïve Bayes, k-nearest neighbors, and Support Vector Machine (SVM) algorithms. Finally, phi contingency coefficients were computed between each of the categories to discover emergent patterns.RESULTS: The most prevalent genres were first- and second-hand experience and opinion, and the most frequent themes were hookah, cessation, and pleasure. Sentiment toward tobacco was overall more positive (1939/4215, 46% of tweets) than negative (1349/4215, 32%) or neutral among tweets mentioning it, even excluding the 9% of tweets categorized as marketing. Three separate metrics converged to support an emergent distinction between, on one hand, hookah and electronic cigarettes corresponding to positive sentiment, and on the other hand, traditional tobacco products and more general references corresponding to negative sentiment. These metrics included correlations between categories in the annotation scheme (phihookah-positive=0.39; phi(e-cigs)-positive=0.19); correlations between search keywords and sentiment (χ²₄=414.50, P&lt;.001, Cramer's V=0.36), and the most discriminating unigram features for positive and negative sentiment ranked by log odds ratio in the machine learning component of the study. In the automated classification tasks, SVMs using a relatively small number of unigram features (500) achieved best performance in discriminating tobacco-related from unrelated tweets (F score=0.85).CONCLUSIONS: Novel insights available through Twitter for tobacco surveillance are attested through the high prevalence of positive sentiment. This positive sentiment is correlated in complex ways with social image, personal experience, and recently popular products such as hookah and electronic cigarettes. Several apparent perceptual disconnects between these products and their health effects suggest opportunities for tobacco control education. Finally, machine classification of tobacco-related posts shows a promising edge over strictly keyword-based approaches, yielding an improved signal-to-noise ratio in Twitter data and paving the way for automated tobacco surveillance applications.</p>
+</td> </tr>
+ <tr class="even"><td class="biblio-row-title">DOI</td><td><a href="http://dx.doi.org/10.2196/jmir.2534">10.2196/jmir.2534</a></td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Alternate Journal</td><td>J. Med. Internet Res.</td> </tr>
+ <tr class="even"><td class="biblio-row-title">PubMed ID</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23989137?dopt=Abstract">23989137</a></td> </tr>
+ <tr class="odd"><td class="biblio-row-title">PubMed Central ID</td><td>PMC3758063</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Grant List</td><td>U01CA154280 / CA / NCI NIH HHS / United States<br>U54HL108460 / HL / NHLBI NIH HHS / United States</td> </tr>
+</tbody>
+</table>
+</div>    </div>
+    
+        
+          <div class="links"><ul class="links inline"><li class="0 first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Using%2Btwitter%2Bto%2Bexamine%2Bsmoking%2Bbehavior%2Band%2Bperceptions%2Bof%2Bemerging%2Btobacco%2Bproducts.%22&amp;as_sauthors=Mysl%C3%ADn&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_pubmed"><a href="http://www.ncbi.nlm.nih.gov/pubmed/23989137?dopt=Abstract" title="Click to view the PubMed listing for this node">PubMed</a></li>
+<li class="biblio_crossref last"><a href="http://dx.doi.org/10.2196/jmir.2534" title="Click to view the CrossRef listing for this node">DOI</a></li>
+</ul></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

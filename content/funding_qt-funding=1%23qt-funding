@@ -1,0 +1,257 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/12" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/funding" />
+  <title>Funding | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/quicktabs/css/quicktabs.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/quicktabs/quicktabs_tabstyles/tabstyles/basic/basic.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_5ZvYbR_RpAnAa4Gy_hGCjwhuaBQEWzQIAwlMCStkIuU.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_WZmIm2IkVkwkNMdvjShlyhR3KBgm8BSj-nMmdSqBKsA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"uLxh8ygO_MqC7YL3VsTZ-cQH7NbhqobpUcGXQESx9Uw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/basic\/basic.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}},"quicktabs":{"qt_funding":{"name":"funding","tabs":[{"vid":"funding","display":"block","args":"","view_path":"node%2F12","view_dom_id":1,"ajax_args":"","actual_args":[]},{"vid":"funding","display":"block_1","args":"","view_path":"node%2F12","view_dom_id":2,"ajax_args":"","actual_args":[]},{"vid":"funding","display":"block_2","args":"","view_path":"node%2F12","view_dom_id":3,"ajax_args":"","actual_args":[]}],"ajaxPageState":{"theme":"blulab","theme_token":"uLxh8ygO_MqC7YL3VsTZ-cQH7NbhqobpUcGXQESx9Uw"}}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-12 node-type-page" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637 active-trail active"><a href="/content/funding" class="active-trail active">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Funding</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-12" class="node node-page fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"></div></div></div>    </div>
+    
+        
+          <div class="links"></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block --><div id="block-quicktabs-funding" class="block block-quicktabs block-even block-even clearfix">
+                <h2 class="block-title">Funding</h2>
+          		
+		<div class="content" >
+		  <div  id="quicktabs-funding" class="quicktabs-wrapper quicktabs-style-basic"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-basic"><li class="first"><a href="/content/funding?qt-funding=0#qt-funding" id="quicktabs-tab-funding-0" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-funding-block active">Current</a></li>
+<li><a href="/content/funding?qt-funding=1#qt-funding" id="quicktabs-tab-funding-1" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-funding-block-1 active">Pending</a></li>
+<li class="last"><a href="/content/funding?qt-funding=2#qt-funding" id="quicktabs-tab-funding-2" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-funding-block-2 active">Completed</a></li>
+</ul></div><div id="quicktabs-container-funding" class="quicktabs_main quicktabs-style-basic"><div  id="quicktabs-tabpage-funding-0" class="quicktabs-tabpage quicktabs-hide"><div class="view view-funding view-id-funding view-display-id-block view-dom-id-b0c8ea7271bac475c25af107092e5f7b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/information-extraction-emrs-predict-readmission-following-acute-myocardial-infarction">Information Extraction from EMRs to Predict Readmission following Acute Myocardial Infarction</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman, Jeremiah A. Brown, Amarendra Das</span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/powerful-predisposition-gene-identification-ischemic-stroke">Powerful Predisposition Gene Identification for Ischemic Stroke</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Danielle Mowery, Wendy Chapman</span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/towards-choosing-wisely-assessing-reasons-exam-carotid-ultrasound-reports">Towards Choosing Wisely: Assessing Reasons for Exam in Carotid Ultrasound Reports</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman, Co-I: Danielle Mowery, Co-I: Salomeh Keyhani</span>  </span>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/evaluation-novel-domains-predicting-30-day-readmission">An Evaluation of Novel Domains for Predicting 30-Day Readmission</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Salomeh Keyhani, Co-I: Wendy Chapman</span>  </span>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/information-extraction-and-visualization-toolkit-ie-viz"> Information Extraction and Visualization ToolKit (IE-VIZ)</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman PhD</span>  </span>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/identifying-critical-findings-radiology-reports">Identifying Critical Findings from Radiology Reports</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman PhD</span>  </span>  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/veterans-informatics-and-computing-infrastructure-vinci">Veteran&#039;s INformatics and Computing Infrastructure (VINCI)</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman (Site PI)</span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><div  id="quicktabs-tabpage-funding-1" class="quicktabs-tabpage quicktabs-hide"></div><div  id="quicktabs-tabpage-funding-2" class="quicktabs-tabpage quicktabs-hide"><div class="view view-funding view-id-funding view-display-id-block_2 view-dom-id-fb332cd359aa4298ffbf66213fb0b065">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/comparative-effectiveness-carotid-artery-revascularization-vs-medical-therapy">Comparative Effectiveness of Carotid Artery Revascularization vs Medical Therapy</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Salomeh Keyhani, Co-I: Wendy Chapman </span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/natural-language-processing-identify-persons-carotid-stenosis">Natural Language Processing to Identify Persons with Carotid Stenosis</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman</span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/interactive-search-and-review-clinical-records-multi-layered-semantic-annotation">Interactive Search and Review of Clinical Records with Multi-layered Semantic Annotation</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman, Rebecca Hwa, Janyce Wiebe</span>  </span>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/integrating-data-analysis-anonymization-and-sharing">Integrating Data for Analysis, Anonymization and Sharing</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Lucila Ohno-Machado, Wendy Chapman (Core Director)</span>  </span>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/annotation-development-and-evaluation-clinical-information-extraction">Annotation, development and evaluation for clinical information extraction</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman, Noemie Elhadad, Guergana Savova</span>  </span>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/natural-language-processing-respiratory-surveillance">Natural Language Processing for Respiratory Surveillance</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman</span>  </span>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/feasibility-natural-language-processing-based-dental-charting-application">Feasibility of a Natural Language Processing-based Dental Charting Application</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman</span>  </span>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/natural-language-processing-cancer-research-network-surveillance-studies">Natural Language Processing for Cancer Research Network Surveillance Studies</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">David Carrell, Wendy Chapman (Co-I)</span>  </span>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/chir-consortium-healthcare-informatics-research">CHIR - Consortium of Healthcare Informatics Research</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman (Site PI, Co-I)</span>  </span>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/odie-toolkit-software-information-extraction-and-biomedical-ontology-development">The ODIE Toolkit - Software for Information Extraction and Biomedical Ontology Development</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Rebecca Crowley (University of Pittsburgh), Wendy Chapman (Co-I)</span>  </span>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/foundational-studies-and-ontologies-syndromic-surveillance-ed-reports-supplement">Foundational Studies and Ontologies for Syndromic Surveillance from ED Reports, Supplement</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman</span>  </span>  </div>
+  <div class="views-row views-row-12 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funds/nlp-foundational-studies-ontologies-syndromic-surveillance-ed-reports">NLP Foundational Studies &amp; Ontologies for Syndromic Surveillance from ED Reports</a></span>  </div>  
+  <span class="views-field views-field-field-fund-pi">    <span class="views-label views-label-field-fund-pi">PI: </span>    <span class="field-content">Wendy Chapman</span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div>		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

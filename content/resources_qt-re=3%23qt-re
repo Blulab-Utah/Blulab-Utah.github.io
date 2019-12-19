@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/9" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/content/resources" />
+  <title>Resources | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/quicktabs/css/quicktabs.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/quicktabs/quicktabs_tabstyles/tabstyles/basic/basic.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_5ZvYbR_RpAnAa4Gy_hGCjwhuaBQEWzQIAwlMCStkIuU.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_WZmIm2IkVkwkNMdvjShlyhR3KBgm8BSj-nMmdSqBKsA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"S59EDyxrqIi4s20NUwu9EdXILzmkWyjdEdkp25StVcs","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/basic\/basic.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}},"ajax":{"quicktabs-tab-re-0":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/0\/view\/resources2\/page_1\/1\/node%252F9\/"},"quicktabs-tab-re-1":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/1\/view\/resources2\/page_4\/2\/node%252F9\/"},"quicktabs-tab-re-2":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/2\/view\/resources2\/page_5\/3\/node%252F9\/"},"quicktabs-tab-re-3":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/3\/view\/resources2\/page_2\/4\/node%252F9\/"},"quicktabs-tab-re-4":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/re\/4\/view\/resources2\/page\/5\/node%252F9\/"}},"urlIsAjaxTrusted":{"\/quicktabs\/ajax\/re\/0\/view\/resources2\/page_1\/1\/node%252F9\/":true,"\/quicktabs\/ajax\/re\/1\/view\/resources2\/page_4\/2\/node%252F9\/":true,"\/quicktabs\/ajax\/re\/2\/view\/resources2\/page_5\/3\/node%252F9\/":true,"\/quicktabs\/ajax\/re\/3\/view\/resources2\/page_2\/4\/node%252F9\/":true,"\/quicktabs\/ajax\/re\/4\/view\/resources2\/page\/5\/node%252F9\/":true},"quicktabs":{"qt_re":{"name":"re","tabs":[{"vid":"resources2","display":"page_1","args":"","view_path":"node%2F9","view_dom_id":1,"ajax_args":"","actual_args":[]},{"vid":"resources2","display":"page_4","args":"","view_path":"node%2F9","view_dom_id":2,"ajax_args":"","actual_args":[]},{"vid":"resources2","display":"page_5","args":"","view_path":"node%2F9","view_dom_id":3,"ajax_args":"","actual_args":[]},{"vid":"resources2","display":"page_2","args":"","view_path":"node%2F9","view_dom_id":4,"ajax_args":"","actual_args":[]},{"vid":"resources2","display":"page","args":"","view_path":"node%2F9","view_dom_id":5,"ajax_args":"","actual_args":[]}],"ajaxPageState":{"theme":"blulab","theme_token":"S59EDyxrqIi4s20NUwu9EdXILzmkWyjdEdkp25StVcs"}}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-9 node-type-page" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880 active-trail active"><a href="/content/resources" class="active-trail active">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Resources</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-9" class="node node-page fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"></div></div></div>    </div>
+    
+        
+          <div class="links"></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block --><div id="block-quicktabs-re" class="block block-quicktabs block-even block-even clearfix">
+                <h2 class="block-title">Resources</h2>
+          		
+		<div class="content" >
+		  <div  id="quicktabs-re" class="quicktabs-wrapper quicktabs-style-basic"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-basic"><li class="first"><a href="/content/resources?qt-re=0#qt-re" id="quicktabs-tab-re-0" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-resources2-page-1 active">Applications</a></li>
+<li><a href="/content/resources?qt-re=1#qt-re" id="quicktabs-tab-re-1" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-resources2-page-4 active">Corpora</a></li>
+<li><a href="/content/resources?qt-re=2#qt-re" id="quicktabs-tab-re-2" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-resources2-page-5 active">Knowledge Bases</a></li>
+<li><a href="/content/resources?qt-re=3#qt-re" id="quicktabs-tab-re-3" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-resources2-page-2 active">Schemas</a></li>
+<li class="last"><a href="/content/resources?qt-re=4#qt-re" id="quicktabs-tab-re-4" class="quicktabs-tab quicktabs-tab-view quicktabs-tab-view-resources2-page active">Standards</a></li>
+</ul></div><div id="quicktabs-container-re" class="quicktabs_main quicktabs-style-basic"></div></div>		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

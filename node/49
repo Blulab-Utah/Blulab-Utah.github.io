@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/49" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/papers/preliminary-model-work-during-initial-examination-and-treatment-planning-appointments" />
+  <title>A preliminary model of work during initial examination and treatment planning appointments. | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"lK1Q5Xxcz3nNet0hVq50EuZk_SJW1PxHfxpQrHXre7M","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-49 node-type-biblio" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">A preliminary model of work during initial examination and treatment planning appointments.</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-49" class="node node-biblio fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div id="biblio-node"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=A+preliminary+model+of+work+during+initial+examination+and+treatment+planning+appointments.&amp;rft.title=Br+Dent+J&amp;rft.issn=1476-5373&amp;rft.date=2009&amp;rft.volume=206&amp;rft.issue=1&amp;rft.aulast=Irwin&amp;rft.auinit=J+Y&amp;rft.au=Torres-Urquidy%2C+M+H&amp;rft.au=Schleyer%2C+T&amp;rft.au=Monaco%2C+V&amp;rft_id=info%3Adoi%2F10.1038%2Fsj.bdj.2008.1151"></span><table>
+<tbody>
+ <tr class="odd"><td class="biblio-row-title">Title</td><td>A preliminary model of work during initial examination and treatment planning appointments.</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Publication Type</td><td>Journal Article</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Year of Publication</td><td>2009</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Authors</td><td><a href="/publications?f%5Bauthor%5D=11" rel="nofollow">Irwin, JY</a>, <a href="/publications?f%5Bauthor%5D=12" rel="nofollow">Torres-Urquidy, MH</a>, <a href="/publications?f%5Bauthor%5D=13" rel="nofollow">Schleyer, T</a>, <a href="/publications?f%5Bauthor%5D=14" rel="nofollow">Monaco, V</a></td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Journal</td><td>Br Dent J</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Volume</td><td>206</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Issue</td><td>1</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Pagination</td><td>E1; discussion 24-5</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Date Published</td><td>2009 Jan 10</td> </tr>
+ <tr class="even"><td class="biblio-row-title">ISSN</td><td>1476-5373</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Keywords</td><td><a href="/publications?f%5Bkeyword%5D=28" rel="nofollow">Appointments and Schedules</a>, <a href="/publications?f%5Bkeyword%5D=29" rel="nofollow">Communication</a>, <a href="/publications?f%5Bkeyword%5D=30" rel="nofollow">Computer Systems</a>, <a href="/publications?f%5Bkeyword%5D=31" rel="nofollow">Dental Informatics</a>, <a href="/publications?f%5Bkeyword%5D=32" rel="nofollow">Efficiency, Organizational</a>, <a href="/publications?f%5Bkeyword%5D=33" rel="nofollow">Female</a>, <a href="/publications?f%5Bkeyword%5D=34" rel="nofollow">General Practice, Dental</a>, <a href="/publications?f%5Bkeyword%5D=26" rel="nofollow">Humans</a>, <a href="/publications?f%5Bkeyword%5D=35" rel="nofollow">Information Management</a>, <a href="/publications?f%5Bkeyword%5D=36" rel="nofollow">Male</a>, <a href="/publications?f%5Bkeyword%5D=37" rel="nofollow">Patient Care Planning</a>, <a href="/publications?f%5Bkeyword%5D=38" rel="nofollow">Physical Examination</a>, <a href="/publications?f%5Bkeyword%5D=39" rel="nofollow">Task Performance and Analysis</a>, <a href="/publications?f%5Bkeyword%5D=40" rel="nofollow">United States</a>, <a href="/publications?f%5Bkeyword%5D=41" rel="nofollow">User-Computer Interface</a>, <a href="/publications?f%5Bkeyword%5D=42" rel="nofollow">Work</a>, <a href="/publications?f%5Bkeyword%5D=43" rel="nofollow">Work Simplification</a></td> </tr>
+ <tr class="even"><td class="biblio-row-title">Abstract</td><td><p>Objective This study's objective was to formally describe the work process for charting and treatment planning in general dental practice to inform the design of a new clinical computing environment.Methods Using a process called contextual inquiry, researchers observed 23 comprehensive examination and treatment planning sessions during 14 visits to 12 general US dental offices. For each visit, field notes were analysed and reformulated as formalised models. Subsequently, each model type was consolidated across all offices and visits. Interruptions to the workflow, called breakdowns, were identified.Results Clinical work during dental examination and treatment planning appointments is a highly collaborative activity involving dentists, hygienists and assistants. Personnel with multiple overlapping roles complete complex multi-step tasks supported by a large and varied collection of equipment, artifacts and technology. Most of the breakdowns were related to technology which interrupted the workflow, caused rework and increased the number of steps in work processes.Conclusion Current dental software could be significantly improved with regard to its support for communication and collaboration, workflow, information design and presentation, information content, and data entry.</p>
+</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">DOI</td><td><a href="http://dx.doi.org/10.1038/sj.bdj.2008.1151">10.1038/sj.bdj.2008.1151</a></td> </tr>
+ <tr class="even"><td class="biblio-row-title">Alternate Journal</td><td>Br Dent J</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">PubMed ID</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19119286?dopt=Abstract">19119286</a></td> </tr>
+</tbody>
+</table>
+</div>    </div>
+    
+        
+          <div class="links"><ul class="links inline"><li class="0 first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22A%2Bpreliminary%2Bmodel%2Bof%2Bwork%2Bduring%2Binitial%2Bexamination%2Band%2Btreatment%2Bplanning%2Bappointments.%22&amp;as_sauthors=Irwin&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_pubmed"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19119286?dopt=Abstract" title="Click to view the PubMed listing for this node">PubMed</a></li>
+<li class="biblio_crossref last"><a href="http://dx.doi.org/10.1038/sj.bdj.2008.1151" title="Click to view the CrossRef listing for this node">DOI</a></li>
+</ul></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/5379" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/papers/extracting-stroke-phenotype-risk-factor-veteran-health-administration-clinical-reports" />
+  <title>Extracting a stroke phenotype risk factor from Veteran Health Administration clinical reports: an information content analysis. | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/system/system.base.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.menus.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.messages.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/system/system.theme.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/modules/comment/comment.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_api/date.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/field/theme/field.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/node/node.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/search/search.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/modules/user/user.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/views/css/views.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/ctools/css/ctools.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/panels/css/panels.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/tagclouds/tagclouds.css?pncn4v");
+@import url("http://blulab.chpc.utah.edu/sites/all/modules/biblio/biblio.css?pncn4v");
+</style>
+<style type="text/css" media="all">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/style.css?pncn4v");
+</style>
+<style type="text/css" media="print">
+@import url("http://blulab.chpc.utah.edu/sites/all/themes/blulab/css/print.css?pncn4v");
+</style>
+  <script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="http://blulab.chpc.utah.edu/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"jmAflnFJd0NhipWZM04ne85JgYlYazKgFZ99bICWy7s","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-5379 node-type-biblio" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us">About Us</a></li>
+<li class="menu-633"><a href="/projects" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-2201 last"><a href="/people">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Extracting a stroke phenotype risk factor from Veteran Health Administration clinical reports: an information content analysis.</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-5379" class="node node-biblio fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div id="biblio-node"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=Extracting+a+stroke+phenotype+risk+factor+from+Veteran+Health+Administration+clinical+reports%3A+an+information+content+analysis.&amp;rft.title=J+Biomed+Semantics&amp;rft.issn=2041-1480&amp;rft.date=2016&amp;rft.volume=7&amp;rft.spage=26&amp;rft.aulast=Mowery&amp;rft.aufirst=Danielle&amp;rft.au=Chapman%2C+Brian&amp;rft.au=Conway%2C+Mike&amp;rft.au=South%2C+Brett&amp;rft.au=Madden%2C+Erin&amp;rft.au=Keyhani%2C+Salomeh&amp;rft.au=Chapman%2C+Wendy&amp;rft_id=info%3Adoi%2F10.1186%2Fs13326-016-0065-1"></span><table>
+<tbody>
+ <tr class="odd"><td class="biblio-row-title">Title</td><td>Extracting a stroke phenotype risk factor from Veteran Health Administration clinical reports: an information content analysis.</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Publication Type</td><td>Journal Article</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Year of Publication</td><td>2016</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Authors</td><td><a href="/publications?f%5Bauthor%5D=130" rel="nofollow">Mowery, DL</a>, <a href="/publications?f%5Bauthor%5D=141" rel="nofollow">Chapman, BE</a>, <a href="/publications?f%5Bauthor%5D=99" rel="nofollow">Conway, M</a>, <a href="/publications?f%5Bauthor%5D=136" rel="nofollow">South, BR</a>, <a href="/publications?f%5Bauthor%5D=166" rel="nofollow">Madden, E</a>, <a href="/publications?f%5Bauthor%5D=167" rel="nofollow">Keyhani, S</a>, <a href="/publications?f%5Bauthor%5D=10" rel="nofollow">Chapman, WW</a></td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Journal</td><td>J Biomed Semantics</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Volume</td><td>7</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Pagination</td><td>26</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Date Published</td><td>2016</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">ISSN</td><td>2041-1480</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Abstract</td><td><p>BACKGROUND: In the United States, 795,000 people suffer strokes each year; 10-15 % of these strokes can be attributed to stenosis caused by plaque in the carotid artery, a major stroke phenotype risk factor. Studies comparing treatments for the management of asymptomatic carotid stenosis are challenging for at least two reasons: 1) administrative billing codes (i.e., Current Procedural Terminology (CPT) codes) that identify carotid images do not denote which neurovascular arteries are affected and 2) the majority of the image reports are negative for carotid stenosis. Studies that rely on manual chart abstraction can be labor-intensive, expensive, and time-consuming. Natural Language Processing (NLP) can expedite the process of manual chart abstraction by automatically filtering reports with no/insignificant carotid stenosis findings and flagging reports with significant carotid stenosis findings; thus, potentially reducing effort, costs, and time.METHODS: In this pilot study, we conducted an information content analysis of carotid stenosis mentions in terms of their report location (Sections), report formats (structures) and linguistic descriptions (expressions) from Veteran Health Administration free-text reports. We assessed an NLP algorithm, pyConText's, ability to discern reports with significant carotid stenosis findings from reports with no/insignificant carotid stenosis findings given these three document composition factors for two report types: radiology (RAD) and text integration utility (TIU) notes.RESULTS: We observed that most carotid mentions are recorded in prose using categorical expressions, within the Findings and Impression sections for RAD reports and within neither of these designated sections for TIU notes. For RAD reports, pyConText performed with high sensitivity (88 %), specificity (84 %), and negative predictive value (95 %) and reasonable positive predictive value (70 %). For TIU notes, pyConText performed with high specificity (87 %) and negative predictive value (92 %), reasonable sensitivity (73 %), and moderate positive predictive value (58 %). pyConText performed with the highest sensitivity processing the full report rather than the Findings or Impressions independently.CONCLUSION: We conclude that pyConText can reduce chart review efforts by filtering reports with no/insignificant carotid stenosis findings and flagging reports with significant carotid stenosis findings from the Veteran Health Administration electronic health record, and hence has utility for expediting a comparative effectiveness study of treatment strategies for stroke prevention.</p>
+</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">DOI</td><td><a href="http://dx.doi.org/10.1186/s13326-016-0065-1">10.1186/s13326-016-0065-1</a></td> </tr>
+ <tr class="even"><td class="biblio-row-title">Alternate Journal</td><td>J Biomed Semantics</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">PubMed ID</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/27175226?dopt=Abstract">27175226</a></td> </tr>
+</tbody>
+</table>
+</div>    </div>
+    
+        
+          <div class="links"><ul class="links inline"><li class="0 first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Extracting%2Ba%2Bstroke%2Bphenotype%2Brisk%2Bfactor%2Bfrom%2BVeteran%2BHealth%2BAdministration%2Bclinical%2Breports%3A%2Ban%2Binformation%2Bcontent%2Banalysis.%22&amp;as_sauthors=Mowery&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_pubmed"><a href="http://www.ncbi.nlm.nih.gov/pubmed/27175226?dopt=Abstract" title="Click to view the PubMed listing for this node">PubMed</a></li>
+<li class="biblio_crossref last"><a href="http://dx.doi.org/10.1186/s13326-016-0065-1" title="Click to view the CrossRef listing for this node">DOI</a></li>
+</ul></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>
