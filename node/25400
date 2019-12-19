@@ -16,7 +16,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortlink" href="/node/25400" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/people" />
+<link rel="canonical" href="/people.html" />
   <title>People | BLUlab</title>
   <style type="text/css" media="all">
 @import url("https://blulab-utah.github.io/modules/system/system.base.css?pncn4v");
@@ -77,9 +77,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="menu-638"><a href="/content/about-us">About Us</a></li>
 <li class="menu-633"><a href="/projects" title="">Projects</a></li>
 <li class="menu-880"><a href="/content/resources">Resources</a></li>
-<li class="menu-636"><a href="/publications" title="">Publications</a></li>
+<li class="menu-636"><a href="/publications.html" title="">Publications</a></li>
 <li class="menu-637"><a href="/content/funding">Funding</a></li>
-<li class="menu-2201 active-trail last active"><a href="/people" class="active-trail active">People</a></li>
+<li class="menu-2201 active-trail last active"><a href="/people.html" class="active-trail active">People</a></li>
 </ul>      </div>
         
   </div> <!-- /header -->
