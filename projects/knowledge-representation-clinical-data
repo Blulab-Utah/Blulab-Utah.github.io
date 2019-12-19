@@ -74,11 +74,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 		      <div id="navigation" class="menu with-primary">
         <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
-<li class="menu-638"><a href="/content/about-us">About Us</a></li>
-<li class="menu-633"><a href="/projects" title="">Projects</a></li>
-<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-638"><a href="/content/about-us.html">About Us</a></li>
+<li class="menu-633"><a href="/projects.html" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources.html">Resources</a></li>
 <li class="menu-636"><a href="/publications.html" title="">Publications</a></li>
-<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-637"><a href="/content/funding.html">Funding</a></li>
 <li class="menu-2201 last"><a href="/people.html">People</a></li>
 </ul>      </div>
         
@@ -112,13 +112,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <p>Our group has extensive experience in developing knowledge representations for clinical data (e.g. ConText and NegEx, tools that identify uncertainty, temporal characteristics and negated clinical conditions).  Most of our current research on clinical knowledge representation is conducted under the auspices of the VA Knowledge Author project,  with work centered on building tools for editing and creating knowledge bases (e.g. a web-based editor for developing Simple Knowledge Organization System vocabularies),  off-the-shelf linguistic knowledge bases that can applied to data by clinicians without modification (e.g. NegEx), and tools to facilitate the point-and-click application of NLP algorithms &amp; knowledge bases to real, clinical text.</p>
 </div></div></div><div class="field field-name-field-project-websites field-type-text-long field-label-inline clearfix"><div class="field-label">Websites:&nbsp;</div><div class="field-items"><div class="field-item even"><ul><li>Tools for creating and editing knowledge bases
 <ul><li><a href="https://blulab-utah.github.io/content/skos-editor#overlay-context=content/resources/v%3Dapplications">SKOS editor (web editor for SKOS files)</a></li>
-<li><a href="https://blulab-utah.github.io/content/knowledge-author#overlay-context=content/resources">Knowledge Author (tools for creating NLP knowledge bases)</a></li>
+<li><a href="https://blulab-utah.github.io/content/knowledge-author#overlay-context=content/resources.html">Knowledge Author (tools for creating NLP knowledge bases)</a></li>
 </ul></li>
 <li>Knowledge Bases
-<ul><li><a href="https://blulab-utah.github.io/content/domain-knowledge-bases-skos#overlay-context=content/resources">Domain Knowledge Bases in SKOS (downloadable KBs)</a></li>
-<li><a href="https://blulab-utah.github.io/content/schema-ontology-creating-domain-ontologies#overlay-context=content/resources">Schema Ontology for Creating Domain Ontologies (generic schema for NLP output)</a></li>
-<li><a href="https://blulab-utah.github.io/content/context-lexicon#overlay-context=content/resources">ConText Lexicon (lexicon for negation and other modifiers)</a></li>
-<li><a href="https://blulab-utah.github.io/content/uncertainty-taxonomy#overlay-context=content/resources">Uncertainty Taxonomy (taxonomy of words indicating uncertainty)</a></li>
+<ul><li><a href="https://blulab-utah.github.io/content/domain-knowledge-bases-skos#overlay-context=content/resources.html">Domain Knowledge Bases in SKOS (downloadable KBs)</a></li>
+<li><a href="https://blulab-utah.github.io/content/schema-ontology-creating-domain-ontologies#overlay-context=content/resources.html">Schema Ontology for Creating Domain Ontologies (generic schema for NLP output)</a></li>
+<li><a href="https://blulab-utah.github.io/content/context-lexicon#overlay-context=content/resources.html">ConText Lexicon (lexicon for negation and other modifiers)</a></li>
+<li><a href="https://blulab-utah.github.io/content/uncertainty-taxonomy#overlay-context=content/resources.html">Uncertainty Taxonomy (taxonomy of words indicating uncertainty)</a></li>
 </ul></li>
 <li>I/O Tools for Knowledge Bases
 <ul><li><a>Schema Ontology Parser (code for reading Schema Ontology)</a></li>

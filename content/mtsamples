@@ -75,11 +75,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 		      <div id="navigation" class="menu with-primary">
         <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
-<li class="menu-638"><a href="/content/about-us">About Us</a></li>
-<li class="menu-633"><a href="/projects" title="">Projects</a></li>
-<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-638"><a href="/content/about-us.html">About Us</a></li>
+<li class="menu-633"><a href="/projects.html" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources.html">Resources</a></li>
 <li class="menu-636"><a href="/publications.html" title="">Publications</a></li>
-<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-637"><a href="/content/funding.html">Funding</a></li>
 <li class="menu-2201 last"><a href="/people.html">People</a></li>
 </ul>      </div>
         

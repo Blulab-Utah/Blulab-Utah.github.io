@@ -75,11 +75,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 		      <div id="navigation" class="menu with-primary">
         <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
-<li class="menu-638"><a href="/content/about-us">About Us</a></li>
-<li class="menu-633"><a href="/projects" title="">Projects</a></li>
-<li class="menu-880"><a href="/content/resources">Resources</a></li>
+<li class="menu-638"><a href="/content/about-us.html">About Us</a></li>
+<li class="menu-633"><a href="/projects.html" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources.html">Resources</a></li>
 <li class="menu-636"><a href="/publications.html" title="">Publications</a></li>
-<li class="menu-637"><a href="/content/funding">Funding</a></li>
+<li class="menu-637"><a href="/content/funding.html">Funding</a></li>
 <li class="menu-2201 last"><a href="/people.html">People</a></li>
 </ul>      </div>
         
@@ -115,7 +115,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/pencilgreen_1.png?itok=9Yk3qyhV" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
-      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The dataset consists of de-identified, randomized sentences from 120 clinical reports including discharge summaries, emergency department, echocardiogram, surgical pathology, operative, and radiology reports from the University of Pittsburgh Medical Center. The dataset contains annotations for problem mentions describing whether each problem mentions negation, temporality, and experiencer. These annotations can be used to test <a href="http://blulab.ucsd.edu/content/negex#overlay-context=content/resources">NegEx</a> and <a href="http://blulab.ucsd.edu/content/context#overlay-context=content/resources">ConText</a> algorithm output.</p>
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The dataset consists of de-identified, randomized sentences from 120 clinical reports including discharge summaries, emergency department, echocardiogram, surgical pathology, operative, and radiology reports from the University of Pittsburgh Medical Center. The dataset contains annotations for problem mentions describing whether each problem mentions negation, temporality, and experiencer. These annotations can be used to test <a href="http://blulab.ucsd.edu/content/negex#overlay-context=content/resources.html">NegEx</a> and <a href="http://blulab.ucsd.edu/content/context#overlay-context=content/resources.html">ConText</a> algorithm output.</p>
 </div></div></div><div class="field field-name-field-toolfinder-link field-type-text field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://code.google.com/p/negex/downloads/list">Download here</a></p>
 </div></div></div>    </div>
   
