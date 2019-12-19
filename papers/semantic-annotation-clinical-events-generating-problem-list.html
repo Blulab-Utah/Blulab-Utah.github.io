@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="/node/197" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/papers/semantic-annotation-clinical-events-generating-problem-list" />
+  <title>Semantic annotation of clinical events for generating a problem list. | BLUlab</title>
+  <style type="text/css" media="all">
+@import url("https://blulab-utah.github.io/modules/system/system.base.css");
+@import url("https://blulab-utah.github.io/modules/system/system.menus.css");
+@import url("https://blulab-utah.github.io/modules/system/system.messages.css");
+@import url("https://blulab-utah.github.io/modules/system/system.theme.css");
+</style>
+<style type="text/css" media="all">
+@import url("https://blulab-utah.github.io/modules/comment/comment.css");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_api/date.css");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_popup/themes/datepicker.1.7.css");
+@import url("https://blulab-utah.github.io/sites/all/modules/date/date_repeat_field/date_repeat_field.css");
+@import url("https://blulab-utah.github.io/modules/field/theme/field.css");
+@import url("https://blulab-utah.github.io/modules/node/node.css");
+@import url("https://blulab-utah.github.io/modules/search/search.css");
+@import url("https://blulab-utah.github.io/modules/user/user.css");
+@import url("https://blulab-utah.github.io/sites/all/modules/views/css/views.css");
+</style>
+<style type="text/css" media="all">
+@import url("https://blulab-utah.github.io/sites/all/modules/ctools/css/ctools.css");
+@import url("https://blulab-utah.github.io/sites/all/modules/panels/css/panels.css");
+@import url("https://blulab-utah.github.io/sites/all/modules/tagclouds/tagclouds.css");
+@import url("https://blulab-utah.github.io/sites/all/modules/biblio/biblio.css");
+</style>
+<style type="text/css" media="all">
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/style.css");
+</style>
+<style type="text/css" media="print">
+@import url("https://blulab-utah.github.io/sites/all/themes/blulab/css/print.css");
+</style>
+  <script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="https://blulab-utah.github.io/sites/default/files/js/js_tF279lsMGS9cM-JR6d2gePslQNNCtXHMk_SPnPFjD_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blulab","theme_token":"8cHO8EScIFM4bzhF1IhF0qoF020TJuh8EE4JRwuxljA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/md_minimal\/js\/md_minimal.js":1,"sites\/all\/themes\/blulab\/js\/blulab.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/biblio\/biblio.css":1,"sites\/all\/themes\/blulab\/css\/style.css":1,"sites\/all\/themes\/blulab\/css\/print.css":1}}});
+//--><!]]>
+</script>
+ 
+<style type="text/css">
+	footer_copyright {color: blue} 
+</style>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-197 node-type-biblio" >
+  <div id="skip">
+    <a href="#navigation">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo">
+            	<a href="/" title="Home" rel="home"></a>
+          </div>
+
+		      <div id="navigation" class="menu with-primary">
+        <ul id="main-menu" class="links clearfix main-menu"><li class="menu-230 first"><a href="/">Home</a></li>
+<li class="menu-638"><a href="/content/about-us.html">About Us</a></li>
+<li class="menu-633"><a href="/projects.html" title="">Projects</a></li>
+<li class="menu-880"><a href="/content/resources.html">Resources</a></li>
+<li class="menu-636"><a href="/publications.html" title="">Publications</a></li>
+<li class="menu-637"><a href="/content/funding.html">Funding</a></li>
+<li class="menu-2201 last"><a href="/people.html">People</a></li>
+</ul>      </div>
+        
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+    <div id="content">
+			        <div id="content-header">
+
+          
+                      <h1 class="title">Semantic annotation of clinical events for generating a problem list.</h1>
+          
+                    
+                      <div class="tabs"></div>
+          
+                    
+        </div> <!-- /#content-header -->
+      
+<!--      <div id="content-area"> -->
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-odd clearfix">
+                		
+		<div class="content" >
+		  <div id="node-197" class="node node-biblio fullnode fullnode">
+	            
+      
+    <div class="content">
+      <div id="biblio-node"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=Semantic+annotation+of+clinical+events+for+generating+a+problem+list.&amp;rft.title=AMIA+Annu+Symp+Proc&amp;rft.issn=1942-597X&amp;rft.date=2013&amp;rft.volume=2013&amp;rft.aulast=Mowery&amp;rft.aufirst=Danielle&amp;rft.au=Jordan%2C+Pamela&amp;rft.au=Wiebe%2C+Janyce&amp;rft.au=Harkema%2C+Henk&amp;rft.au=Dowling%2C+John&amp;rft.au=Chapman%2C+Wendy"></span><table>
+<tbody>
+ <tr class="odd"><td class="biblio-row-title">Title</td><td>Semantic annotation of clinical events for generating a problem list.</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Publication Type</td><td>Journal Article</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Year of Publication</td><td>2013</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Authors</td><td><a href="/publications?f%5Bauthor%5D=130" rel="nofollow">Mowery, DL</a>, <a href="/publications?f%5Bauthor%5D=131" rel="nofollow">Jordan, P</a>, <a href="/publications?f%5Bauthor%5D=132" rel="nofollow">Wiebe, J</a>, <a href="/publications?f%5Bauthor%5D=6" rel="nofollow">Harkema, H</a>, <a href="/publications?f%5Bauthor%5D=133" rel="nofollow">Dowling, J</a>, <a href="/publications?f%5Bauthor%5D=10" rel="nofollow">Chapman, WW</a></td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Journal</td><td>AMIA Annu Symp Proc</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Volume</td><td>2013</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Pagination</td><td>1032-41</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Date Published</td><td>2013</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">ISSN</td><td>1942-597X</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Keywords</td><td><a href="/publications?f%5Bkeyword%5D=24" rel="nofollow">Electronic Health Records</a>, <a href="/publications?f%5Bkeyword%5D=26" rel="nofollow">Humans</a>, <a href="/publications?f%5Bkeyword%5D=52" rel="nofollow">Information Storage and Retrieval</a>, <a href="/publications?f%5Bkeyword%5D=14" rel="nofollow">Natural Language Processing</a>, <a href="/publications?f%5Bkeyword%5D=66" rel="nofollow">Pilot Projects</a>, <a href="/publications?f%5Bkeyword%5D=27" rel="nofollow">Semantics</a></td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Abstract</td><td><p>We present a pilot study of an annotation schema representing problems and their attributes, along with their relationship to temporal modifiers. We evaluated the ability for humans to annotate clinical reports using the schema and assessed the contribution of semantic annotations in determining the status of a problem mention as active, inactive, proposed, resolved, negated, or other. Our hypothesis is that the schema captures semantic information useful for generating an accurate problem list. Clinical named entities such as reference events, time points, time durations, aspectual phase, ordering words and their relationships including modifications and ordering relations can be annotated by humans with low to moderate recall. Once identified, most attributes can be annotated with low to moderate agreement. Some attributes - Experiencer, Existence, and Certainty - are more informative than other attributes - Intermittency and Generalized/Conditional - for predicting a problem mention's status. Support vector machine outperformed Naïve Bayes and Decision Tree for predicting a problem's status.</p>
+</td> </tr>
+ <tr class="even"><td class="biblio-row-title">Alternate Journal</td><td>AMIA Annu Symp Proc</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">PubMed ID</td><td><a href="http://www.ncbi.nlm.nih.gov/pubmed/24551392?dopt=Abstract">24551392</a></td> </tr>
+ <tr class="even"><td class="biblio-row-title">PubMed Central ID</td><td>PMC3900128</td> </tr>
+ <tr class="odd"><td class="biblio-row-title">Grant List</td><td>5T15LM007059 / LM / NLM NIH HHS / United States<br>R01LM009427 / LM / NLM NIH HHS / United States<br>T15 LM007059 / LM / NLM NIH HHS / United States</td> </tr>
+</tbody>
+</table>
+</div>    </div>
+    
+        
+          <div class="links"><ul class="links inline"><li class="0 first"><a href="http://scholar.google.com/scholar?btnG=Search%2BScholar&amp;as_q=%22Semantic%2Bannotation%2Bof%2Bclinical%2Bevents%2Bfor%2Bgenerating%2Ba%2Bproblem%2Blist.%22&amp;as_sauthors=Mowery&amp;as_occt=any&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_sdtAAP=1&amp;as_sdtp=1" title="Click to search Google Scholar for this entry" rel="nofollow">Google Scholar</a></li>
+<li class="biblio_pubmed last"><a href="http://www.ncbi.nlm.nih.gov/pubmed/24551392?dopt=Abstract" title="Click to view the PubMed listing for this node">PubMed</a></li>
+</ul></div>
+      </div> <!-- /node-->
+
+		</div>
+
+</div> <!-- /block -->  </div>
+<!--      </div> -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer" class="clearfix">
+      <div class="copyright">&copy; <a href="/" title="Home" rel="home"></a> 2019</div>
+      <div class="credits">Powered by <a href="http://drupal.org">Drupal</a>. Theme by <a href="http://megadrupal.com">MegaDrupal</a></div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40302306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>
