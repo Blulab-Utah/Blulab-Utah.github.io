@@ -112,7 +112,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>ShARe/CLEF eHealth 2013 Challenge - Tasks 1 and 2</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/pencilgreen.png?itok=YrKDpmqi" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/pencilgreen.png" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The dataset for Tasks 1 and 2 consists of de-identified clinical free-text notes authored in the ICU setting including discharge summaries, ECG reports, echocardiogram reports, and radiology reports from the <a href="http://mimic.physionet.org">MIMIC II database, version 2.5</a>.<br />

@@ -112,7 +112,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>Tobacco Twitter Schema</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/peoplebulbs_3.png?itok=NLSo88xX" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/peoplebulbs_3.png" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Major depressive disorder is one of the most burdensome and debilitating diseases in the United States. We developed a new annotation scheme representing depressive symptoms and psychosocial stressors associated with major depressive disorder and report annotator agreement when applying the scheme to Twitter data.</p>

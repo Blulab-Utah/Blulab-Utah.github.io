@@ -112,7 +112,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h4>NegEx</h4></div></div></div>  </div>
 
       <div class="group-left tool-icon">
-      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_0.png?itok=ksbX5F_k" width="180" height="180" alt="" /></div></div></div>    </div>
+      <div class="field field-name-field-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="https://blulab-utah.github.io/sites/default/files/styles/square_thumbnail/public/algorithm-icon_0.png" width="180" height="180" alt="" /></div></div></div>    </div>
   
       <div class="group-right tool-desc">
       <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="http://code.google.com/p/negex/">NegEx</a> locates trigger terms indicating a clinical condition is negated or possible and determines which text falls within the scope of the trigger terms. It can produce two types of output:</p>
